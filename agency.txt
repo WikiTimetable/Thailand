@@ -1,6 +1,6 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
 TR,Thailand Railways,http://www.railway.co.th/home/,Asia/Bangkok,,
-ALEX,Alek Tour,http://gee.chalo.org.uk/index.html,Asia/Bangkok,,unknown 9
+ALEX,Alek Tour,http://gee.chalo.org.uk/index.html,Asia/Bangkok,,unknown 10
 BANHSAPHAN,Bang Saphan Tour,http://gee.chalo.org.uk/index.html,Asia/Bangkok,,
 CHERDAI,Cherdchai Tour,http://gee.chalo.org.uk/index.html,Asia/Bangkok,,
 DAMNOEN,Damnoen Tour,http://gee.chalo.org.uk/index.html,Asia/Bangkok,,
