@@ -1,0 +1,1808 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible
+423,NE-Line,daily,Samrong Thap,Lam Chi to Samrong Thap,0,,,0
+425,NE-Line,daily,Ubon Ratchathani,Lam Chi to Ubon Ratchathani,0,,,0
+421,NE-Line,daily,Ubon Ratchathani,Nakhon Ratchasima to Ubon Ratchathani,0,,,0
+419,NE-Line,daily,Ubon Ratchathani,Nakhon Ratchasima to Ubon Ratchathani,0,,,0
+427,NE-Line,daily,Ubon Ratchathani,Nakhon Ratchasima to Ubon Ratchathani,0,,,0
+339,NE-Line,daily,Kaeng Khoi Junction,Bangkok to Kaeng Khoi Junction,0,,,0
+21,NE-Line,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+135,NE-Line,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+71,NE-Line,daily,Si Saket,Bangkok to Si Saket,0,,,0
+233,NE-Line,daily,Surin,Bangkok to Surin,0,,,0
+145,NE-Line,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+341,NE-Line,daily,Kaeng Khoi Junction,Bangkok to Kaeng Khoi Junction,0,,,0
+343,NE-Line,daily,Kaeng Khoi Junction,Bangkok to Kaeng Khoi Junction,0,,,0
+139,NE-Line,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+67,NE-Line,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+73,NE-Line,daily,Sikhoraphum,Bangkok to Sikhoraphum,0,,,0
+141,NE-Line,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+431,NE-Line,daily,Khon Kaen,Kaeng Khoi Junction to Khon Kaen,0,,,0
+433,NE-Line,daily,Bua Yai Junction,Kaeng Khoi Junction to Bua Yai Junction,0,,,0
+415,NE-Line,daily,Nong Khai,Nakhon Ratchasima to Nong Khai,0,,,0
+439,NE-Line,daily,Bua Yai Junction,Kaeng Khoi Junction to Bua Yai Junction,0,,,0
+437,NE-Line,daily,Lam Narai,Kaeng Khoi Junction to Lam Narai,0,,,0
+429,NE-Line,daily,Bua Yai Junction,Nakhon Ratchasima to Bua Yai Junction,0,,,0
+417,NE-Line,daily,Udon Thani,Nakhon Ratchasima to Udon Thani,0,,,0
+75,NE-Line,daily,Udon Thani,Bangkok to Udon Thani,0,,,0
+77,NE-Line,daily,Nong Khai,Bangkok to Nong Khai,0,,,0
+133,NE-Line,daily,Nong Khai,Bangkok to Nong Khai,0,,,0
+69,NE-Line,daily,Nong Khai,Bangkok to Nong Khai,0,,,0
+142,NE-Line,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+74,NE-Line,daily,Bangkok,Si Saket to Bangkok,0,,,0
+68,NE-Line,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+140,NE-Line,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+344,NE-Line,daily,Bangkok,Kaeng Khoi Junction to Bangkok,0,,,0
+342,NE-Line,daily,Bangkok,Kaeng Khoi Junction to Bangkok,0,,,0
+424,NE-Line,daily,Nakhon Ratchasima,Samrong Thap to Nakhon Ratchasima,0,,,0
+340,NE-Line,daily,Bangkok,Kaeng Khoi Junction to Bangkok,0,,,0
+428,NE-Line,daily,Nakhon Ratchasima,Ubon Ratchathani to Nakhon Ratchasima,0,,,0
+234,NE-Line,daily,Bangkok,Surin to Bangkok,0,,,0
+72,NE-Line,daily,Bangkok,Sikhoraphum to Bangkok,0,,,0
+136,NE-Line,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+426,NE-Line,daily,Nakhon Ratchasima,Ubon Ratchathani to Nakhon Ratchasima,0,,,0
+422,NE-Line,daily,Lam Chi,Ubon Ratchathani to Lam Chi,0,,,0
+146,NE-Line,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+420,NE-Line,daily,Lam Chi,Ubon Ratchathani to Lam Chi,0,,,0
+22,NE-Line,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+78,NE-Line,daily,Bangkok,Udon Thani to Bangkok,0,,,0
+70,NE-Line,daily,Bangkok,Nong Khai to Bangkok,0,,,0
+134,NE-Line,daily,Bangkok,Nong Khai to Bangkok,0,,,0
+430,NE-Line,daily,Nakhon Ratchasima,Bua Yai Junction to Nakhon Ratchasima,0,,,0
+438,NE-Line,daily,Kaeng Khoi Junction,Lam Narai to Kaeng Khoi Junction,0,,,0
+416,NE-Line,daily,Nakhon Ratchasima,Udon Thani to Nakhon Ratchasima,0,,,0
+440,NE-Line,daily,Kaeng Khoi Junction,Bua Yai Junction to Kaeng Khoi Junction,0,,,0
+76,NE-Line,daily,Bangkok,Nong Khai to Bangkok,0,,,0
+434,NE-Line,daily,Kaeng Khoi Junction,Bua Yai Junction to Kaeng Khoi Junction,0,,,0
+418,NE-Line,daily,Nakhon Ratchasima,Nong Khai to Nakhon Ratchasima,0,,,0
+432,NE-Line,daily,Kaeng Khoi Junction,Khon Kaen to Kaeng Khoi Junction,0,,,0
+303,N-Line,daily,Lop Buri,Bangkok to Lop Buri,0,,,0
+311,N-Line,daily,Rangsit,Bangkok to Rangsit,0,,,0
+407,N-Line,daily,Chiang Mai,Nakhon Sawan to Chiang Mai,0,,,0
+403,N-Line,daily,Sila At,Phitsanulok to Sila At,0,,,0
+409,N-Line,daily,Lop Buri,Ayutthaya to Lop Buri,0,,,0
+401,N-Line,daily,Phitsanulok,Lop Buri to Phitsanulok,0,,,0
+111,N-Line,daily,Den Chai,Bangkok to Den Chai,0,,,0
+9,N-Line,daily,Chiang Mai,Bangkok to Chiang Mai,0,,,0
+201,N-Line,daily,Phitsanulok,Bangkok to Phitsanulok,0,,,0
+3,N-Line,daily,Sila At,Bangkok to Sila At,0,,,0
+209,N-Line,daily,Ban Takhli,Bangkok to Ban Takhli,0,,,0
+211,N-Line,daily,Taphan Hin,Bangkok to Taphan Hin,0,,,0
+207,N-Line,daily,Nakhon Sawan,Bangkok to Nakhon Sawan,0,,,0
+109,N-Line,daily,Chiang Mai,Bangkok to Chiang Mai,0,,,0
+315,N-Line,daily,Lop Buri,Bangkok to Lop Buri,0,,,0
+301,N-Line,daily,Lop Buri,Bangkok to Lop Buri,0,,,0
+313,N-Line,daily,Ban Phachi Junction,Bangkok to Ban Phachi Junction,0,,,0
+317,N-Line,daily,Lop Buri,Bangkok to Lop Buri,0,,,0
+1,N-Line,daily,Chiang Mai,Bangkok to Chiang Mai,0,,,0
+305,N-Line,daily,Ayutthaya,Bangkok to Ayutthaya,0,,,0
+13,N-Line,daily,Chiang Mai,Bangkok to Chiang Mai,0,,,0
+105,N-Line,daily,Sila At,Bangkok to Sila At,0,,,0
+107,N-Line,daily,Den Chai,Bangkok to Den Chai,0,,,0
+51,N-Line,daily,Chiang Mai,Bangkok to Chiang Mai,0,,,0
+4,N-Line,daily,Bangkok,Sila At to Bangkok,0,,,0
+108,N-Line,daily,Bangkok,Den Chai to Bangkok,0,,,0
+52,N-Line,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+14,N-Line,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+2,N-Line,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+314,N-Line,daily,Bangkok,Ban Phachi Junction to Bangkok,0,,,0
+306,N-Line,daily,Bangkok,Ayutthaya to Bangkok,0,,,0
+316,N-Line,daily,Bangkok,Lop Buri to Bangkok,0,,,0
+302,N-Line,daily,Bangkok,Lop Buri to Bangkok,0,,,0
+318,N-Line,daily,Bangkok,Lop Buri to Bangkok,0,,,0
+208,N-Line,daily,Bangkok,Nakhon Sawan to Bangkok,0,,,0
+304,N-Line,daily,Bangkok,Lop Buri to Bangkok,0,,,0
+212,N-Line,daily,Bangkok,Taphan Hin to Bangkok,0,,,0
+202,N-Line,daily,Bangkok,Phitsanulok to Bangkok,0,,,0
+106,N-Line,daily,Bangkok,Sila At to Bangkok,0,,,0
+112,N-Line,daily,Bangkok,Den Chai to Bangkok,0,,,0
+410,N-Line,daily,Phitsanulok,Sila At to Phitsanulok,0,,,0
+402,N-Line,daily,Lop Buri,Phitsanulok to Lop Buri,0,,,0
+408,N-Line,daily,Nakhon Sawan,Chiang Mai to Nakhon Sawan,0,,,0
+12,N-Line,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+210,N-Line,daily,Bangkok,Ban Takhli to Bangkok,0,,,0
+102,N-Line,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+43,S-Line,daily,Surat Thani,Bangkok to Surat Thani,0,,,0
+261,S-Line,daily,Hua Hin,Bangkok to Hua Hin,0,,,0
+171,S-Line,daily,Sungai Kolok,Bangkok to Sungai Kolok,0,,,0
+37,S-Line,daily,Sungai Kolok,Bangkok to Sungai Kolok,0,,,0
+169,S-Line,daily,Yala,Bangkok to Yala,0,,,0
+355,S-Line,daily,Suphan Buri,Bangkok to Suphan Buri,0,,,0
+83,S-Line,daily,Trang,Bangkok to Trang,0,,,0
+173,S-Line,daily,Nakhon Si Thammarat,Bangkok to Nakhon Si Thammarat,0,,,0
+167,S-Line,daily,Kantang,Bangkok to Kantang,0,,,0
+85,S-Line,daily,Nakhon Si Thammarat,Bangkok to Nakhon Si Thammarat,0,,,0
+39,S-Line,daily,Surat Thani,Bangkok to Surat Thani,0,,,0
+41,S-Line,daily,Yala,Bangkok to Yala,0,,,0
+485,S-Line,daily,Nam Tok,Nong Pla Duk Junction to Nam Tok,0,,,0
+255,S-Line,daily,Lang Suan,Thonburi to Lang Suan,0,,,0
+257,S-Line,daily,Nam Tok,Thonburi to Nam Tok,0,,,0
+251,S-Line,daily,Prachuap Khiri Khan,Bang Sue Junction to Prachuap Khiri Khan,0,,,0
+259,S-Line,daily,Nam Tok,Thonburi to Nam Tok,0,,,0
+351,S-Line,daily,Ratchaburi,Thonburi to Ratchaburi,0,,,0
+177,S-Line,daily,Lang Suan,Thonburi to Lang Suan,0,,,0
+447,S-Line,daily,Sungai Kolok,Surat Thani to Sungai Kolok,0,,,0
+451,S-Line,daily,Sungai Kolok,Nakhon Si Thammarat to Sungai Kolok,0,,,0
+463,S-Line,daily,Sungai Kolok,Phatthalung to Sungai Kolok,0,,,0
+175,S-Line,daily,Sungai Kolok,Hat Yai Junction to Sungai Kolok,0,,,0
+453,S-Line,daily,Sungai Kolok,Yala to Sungai Kolok,0,,,0
+445,S-Line,daily,Hat Yai Junction,Chumphon to Hat Yai Junction,0,,,0
+455,S-Line,daily,Yala,Nakhon Si Thammarat to Yala,0,,,0
+457,S-Line,daily,Phatthalung,Nakhon Si Thammarat to Phatthalung,0,,,0
+489,S-Line,daily,Khiri Ratthanikhom,Surat Thani to Khiri Ratthanikhom,0,,,0
+174,S-Line,daily,Bangkok,Nakhon Si Thammarat to Bangkok,0,,,0
+168,S-Line,daily,Bangkok,Kantang to Bangkok,0,,,0
+42,S-Line,daily,Bangkok,Yala to Bangkok,0,,,0
+44,S-Line,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+86,S-Line,daily,Bangkok,Nakhon Si Thammarat to Bangkok,0,,,0
+170,S-Line,daily,Bangkok,Yala to Bangkok,0,,,0
+356,S-Line,daily,Bangkok,Suphan Buri to Bangkok,0,,,0
+84,S-Line,daily,Bangkok,Trang to Bangkok,0,,,0
+172,S-Line,daily,Bangkok,Sungai Kolok to Bangkok,0,,,0
+36,S-Line,daily,Bangkok,Butterworth to Bangkok,0,,,0
+38,S-Line,daily,Bangkok,Sungai Kolok to Bangkok,0,,,0
+262,S-Line,daily,Bangkok,Hua Hin to Bangkok,0,,,0
+40,S-Line,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+490,S-Line,daily,Surat Thani,Khiri Ratthanikhom to Surat Thani,0,,,0
+458,S-Line,daily,Nakhon Si Thammarat,Phatthalung to Nakhon Si Thammarat,0,,,0
+456,S-Line,daily,Nakhon Si Thammarat,Yala to Nakhon Si Thammarat,0,,,0
+446,S-Line,daily,Chumphon,Hat Yai Junction to Chumphon,0,,,0
+454,S-Line,daily,Yala,Sungai Kolok to Yala,0,,,0
+448,S-Line,daily,Surat Thani,Sungai Kolok to Surat Thani,0,,,0
+452,S-Line,daily,Nakhon Si Thammarat,Sungai Kolok to Nakhon Si Thammarat,0,,,0
+176,S-Line,daily,Hat Yai Junction,Sungai Kolok to Hat Yai Junction,0,,,0
+464,S-Line,daily,Phatthalung,Sungai Kolok to Phatthalung,0,,,0
+178,S-Line,daily,Thonburi,Lang Suan to Thonburi,0,,,0
+352,S-Line,daily,Thonburi,Ratchaburi to Thonburi,0,,,0
+260,S-Line,daily,Thonburi,Nam Tok to Thonburi,0,,,0
+252,S-Line,daily,Bang Sue Junction,Prachuap Khiri Khan to Bang Sue Junction,0,,,0
+258,S-Line,daily,Thonburi,Nam Tok to Thonburi,0,,,0
+486,S-Line,daily,Nong Pla Duk Junction,Nam Tok to Nong Pla Duk Junction,0,,,0
+116,C-Line,daily,Bangkok,Phitsanulok to Bangkok,0,,,0
+376,C-Line,daily,Hua Takhe,Rangsit to Hua Takhe,0,,,0
+917,NE-Line,daily,Thanaleng,Nong Khai to Thanaleng,0,,,0
+11,N-Line,daily,Chiang Mai,Bangkok to Chiang Mai,0,,,0
+35,S-Line,daily,Butterworth,Bangkok to Butterworth,0,,,0
+143,NE-Line,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+913,NE-Line,daily,Thanaleng,Nong Khai to Thanaleng,0,,,0
+918,NE-Line,daily,Nong Khai,Thanaleng to Nong Khai,0,,,0
+10,N-Line,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+144,NE-Line,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+284,E-Line,daily,Bangkok,Ban Plu Ta Luang to Bangkok,0,,,0
+390,E-Line,daily,Bangkok,Chachoengsao to Bangkok,0,,,0
+391,E-Line,daily,Chachoengsao,Bangkok to Chachoengsao,0,,,0
+371,E-Line,daily,Prachin Buri,Bangkok to Prachin Buri,0,,,0
+394,E-Line,daily,Bangkok,Chachoengsao to Bangkok,0,,,0
+372,E-Line,daily,Bangkok,Prachin Buri to Bangkok,0,,,0
+283,E-Line,daily,Ban Plu Ta Luang,Bangkok to Ban Plu Ta Luang,0,,,0
+276,E-Line,daily,Bangkok,Aranyaprathet to Bangkok,0,,,0
+383,E-Line,daily,Chachoengsao,Bangkok to Chachoengsao,0,,,0
+379,E-Line,daily,Hua Takhe,Bangkok to Hua Takhe,0,,,0
+280,E-Line,daily,Bangkok,Aranyaprathet to Bangkok,0,,,0
+282,E-Line,daily,Bangkok,Kabin Buri to Bangkok,0,,,0
+279,E-Line,daily,Aranyaprathet,Bangkok to Aranyaprathet,0,,,0
+286,E-Line,daily,Bangkok,Chachoengsao to Bangkok,0,,,0
+380,E-Line,daily,Bangkok,Hua Takhe to Bangkok,0,,,0
+389,E-Line,daily,Chachoengsao,Bangkok to Chachoengsao,0,,,0
+384,E-Line,daily,Bangkok,Chachoengsao to Bangkok,0,,,0
+285,E-Line,daily,Chachoengsao,Bangkok to Chachoengsao,0,,,0
+368,E-Line,daily,Bangkok,Chachoengsao to Bangkok,0,,,0
+378,E-Line,daily,Bangkok,Hua Takhe to Bangkok,0,,,0
+281,E-Line,daily,Kabin Buri,Bangkok to Kabin Buri,0,,,0
+367,E-Line,daily,Chachoengsao,Bangkok to Chachoengsao,0,,,0
+385,E-Line,daily,Chachoengsao,Bangkok to Chachoengsao,0,,,0
+278,E-Line,daily,Bangkok,Kabin Buri to Bangkok,0,,,0
+275,E-Line,daily,Aranyaprathet,Bangkok to Aranyaprathet,0,,,0
+388,E-Line,daily,Bangkok,Chachoengsao to Bangkok,0,,,0
+277,E-Line,daily,Kabin Buri,Bangkok to Kabin Buri,0,,,0
+914,NE-Line,daily,Nong Khai,Thanaleng to Nong Khai,0,,,0
+bus-AMC2BNK0,bus-AMC2BNK,daily,Bangkok,Amnat Charoen to Bangkok,0,,,0
+bus-AMP2BNK0,bus-AMP2BNK,daily,Bangkok,Amphawa to Bangkok,0,,,0
+ARY2BUR0,ARY2BUR,daily,Buri Ram,Aranyaprathet to Buri Ram,0,,,0
+ARY2CHB0,ARY2CHB,daily,Chon Buri,Aranyaprathet to Chon Buri,0,,,0
+ARY2CHB1,ARY2CHB,daily,Chon Buri,Aranyaprathet to Chon Buri,0,,,0
+ARY2CHB2,ARY2CHB,daily,Chon Buri,Aranyaprathet to Chon Buri,0,,,0
+ARY2PAT0,ARY2PAT,daily,Pattaya,Aranyaprathet to Pattaya,0,,,0
+ARY2PAT1,ARY2PAT,daily,Pattaya,Aranyaprathet to Pattaya,0,,,0
+ARY2PAT2,ARY2PAT,daily,Pattaya,Aranyaprathet to Pattaya,0,,,0
+ARY2bus-RAY0,ARY2bus-RAY,daily,Rayong,Aranyaprathet to Rayong,0,,,0
+ARY2bus-RAY1,ARY2bus-RAY,daily,Rayong,Aranyaprathet to Rayong,0,,,0
+ARY2bus-RAY2,ARY2bus-RAY,daily,Rayong,Aranyaprathet to Rayong,0,,,0
+ARY2SUR0,ARY2SUR,daily,Surin,Aranyaprathet to Surin,0,,,0
+ARY2SUR1,ARY2SUR,daily,Surin,Aranyaprathet to Surin,0,,,0
+ARY2SUR2,ARY2SUR,daily,Surin,Aranyaprathet to Surin,0,,,0
+AYU2BNK0,AYU2BNK,daily,Bangkok,Ayutthaya to Bangkok,0,,,0
+AYU2CGM0,AYU2CGM,daily,Chiang Mai,Ayutthaya to Chiang Mai,0,,,0
+AYU2CGM1,AYU2CGM,daily,Chiang Mai,Ayutthaya to Chiang Mai,0,,,0
+AYU2PHL0,AYU2PHL,daily,Phitsanulok,Ayutthaya to Phitsanulok,0,,,0
+AYU2PHL1,AYU2PHL,daily,Phitsanulok,Ayutthaya to Phitsanulok,0,,,0
+AYU2SAR0,AYU2SAR,daily,Saraburi,Ayutthaya to Saraburi,0,,,0
+AYU2bus-SUK0,AYU2bus-SUK,daily,Sukhothai,Ayutthaya to Sukhothai,0,,,0
+AYU2bus-SUK1,AYU2bus-SUK,daily,Sukhothai,Ayutthaya to Sukhothai,0,,,0
+AYU2SUP0,AYU2SUP,daily,Suphan Buri,Ayutthaya to Suphan Buri,0,,,0
+BNK2bus-CKO0,BNK2bus-CKO,daily,Chiang Khong,Bangkok to Chiang Khong,0,,,0
+BNK2bus-CKO1,BNK2bus-CKO,daily,Chiang Khong,Bangkok to Chiang Khong,0,,,0
+BNK2bus-CKO2,BNK2bus-CKO,daily,Chiang Khong,Bangkok to Chiang Khong,0,,,0
+BNK2bus-CKO3,BNK2bus-CKO,daily,Chiang Khong,Bangkok to Chiang Khong,0,,,0
+BNK2bus-CKO4,BNK2bus-CKO,daily,Chiang Khong,Bangkok to Chiang Khong,0,,,0
+BNK2bus-CKO5,BNK2bus-CKO,daily,Chiang Khong,Bangkok to Chiang Khong,0,,,0
+BNK2bus-CHR0,BNK2bus-CHR,daily,Chiang Rai,Bangkok to Chiang Rai,0,,,0
+BNK2bus-CHR1,BNK2bus-CHR,daily,Chiang Rai,Bangkok to Chiang Rai,0,,,0
+BNK2bus-CHR2,BNK2bus-CHR,daily,Chiang Rai,Bangkok to Chiang Rai,0,,,0
+BNK2bus-CHR3,BNK2bus-CHR,daily,Chiang Rai,Bangkok to Chiang Rai,0,,,0
+BNK2bus-CHR4,BNK2bus-CHR,daily,Chiang Rai,Bangkok to Chiang Rai,0,,,0
+BNK2bus-CHR6,BNK2bus-CHR,daily,Chiang Rai,Bangkok to Chiang Rai,0,,,0
+BNK2bus-CHR7,BNK2bus-CHR,daily,Chiang Rai,Bangkok to Chiang Rai,0,,,0
+BNK2bus-CHR8,BNK2bus-CHR,daily,Chiang Rai,Bangkok to Chiang Rai,0,,,0
+BNK2bus-CHR9,BNK2bus-CHR,daily,Chiang Rai,Bangkok to Chiang Rai,0,,,0
+BNK2bus-CHR10,BNK2bus-CHR,daily,Chiang Rai,Bangkok to Chiang Rai,0,,,0
+BNK2bus-CHR11,BNK2bus-CHR,daily,Chiang Rai,Bangkok to Chiang Rai,0,,,0
+E72bus-CHN0,E72bus-CHN,daily,Chanthaburi,Ekkamai to Chanthaburi,0,,,0
+E72bus-CHN1,E72bus-CHN,daily,Chanthaburi,Ekkamai to Chanthaburi,0,,,0
+E72bus-CHN2,E72bus-CHN,daily,Chanthaburi,Ekkamai to Chanthaburi,0,,,0
+E72bus-CHN3,E72bus-CHN,daily,Chanthaburi,Ekkamai to Chanthaburi,0,,,0
+E72bus-CHN4,E72bus-CHN,daily,Chanthaburi,Ekkamai to Chanthaburi,0,,,0
+E72CHB0,E72CHB,daily,Chon Buri,Ekkamai to Chon Buri,0,,,0
+E72CHB1,E72CHB,daily,Chon Buri,Ekkamai to Chon Buri,0,,,0
+E72CHB2,E72CHB,daily,Chon Buri,Ekkamai to Chon Buri,0,,,0
+E72CHB3,E72CHB,daily,Chon Buri,Ekkamai to Chon Buri,0,,,0
+E72CHB4,E72CHB,daily,Chon Buri,Ekkamai to Chon Buri,0,,,0
+E72PAT0,E72PAT,daily,Pattaya,Ekkamai to Pattaya,0,,,0
+E72bus-RAY0,E72bus-RAY,daily,Rayong,Ekkamai to Rayong,0,,,0
+E72bus-RAY1,E72bus-RAY,daily,Rayong,Ekkamai to Rayong,0,,,0
+E72bus-RAY2,E72bus-RAY,daily,Rayong,Ekkamai to Rayong,0,,,0
+E72bus-RAY3,E72bus-RAY,daily,Rayong,Ekkamai to Rayong,0,,,0
+E72bus-TRA0,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA1,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA2,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA3,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA4,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA5,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA6,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA7,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA8,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA9,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA10,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA11,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA12,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+E72bus-TRA13,E72bus-TRA,daily,Trat,Ekkamai to Trat,0,,,0
+BNK2KHE0,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE1,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE2,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE3,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE4,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE5,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE6,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE7,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE8,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE9,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE10,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE11,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE12,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE13,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE14,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE15,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE16,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE18,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE19,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE20,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE22,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE23,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE24,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE25,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE26,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE27,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE28,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2KHE29,BNK2KHE,daily,Khon Kaen,Bangkok to Khon Kaen,0,,,0
+BNK2bus-KOS0,BNK2bus-KOS,daily,Ko Samui,Bangkok to Ko Samui,0,,,0
+BNK2bus-KOS1,BNK2bus-KOS,daily,Ko Samui,Bangkok to Ko Samui,0,,,0
+BNK2bus-KOS2,BNK2bus-KOS,daily,Ko Samui,Bangkok to Ko Samui,0,,,0
+BNK2bus-KOS3,BNK2bus-KOS,daily,Ko Samui,Bangkok to Ko Samui,0,,,0
+BNK2bus-MHS0,BNK2bus-MHS,daily,Mae Hong Son,Bangkok to Mae Hong Son,0,,,0
+BNK2bus-MHS1,BNK2bus-MHS,daily,Mae Hong Son,Bangkok to Mae Hong Son,0,,,0
+BNK2bus-MHS2,BNK2bus-MHS,daily,Mae Hong Son,Bangkok to Mae Hong Son,0,,,0
+BNK2bus-MAS0,BNK2bus-MAS,daily,Mae Sai,Bangkok to Mae Sai,0,,,0
+BNK2bus-MAS1,BNK2bus-MAS,daily,Mae Sai,Bangkok to Mae Sai,0,,,0
+BNK2bus-MAS2,BNK2bus-MAS,daily,Mae Sai,Bangkok to Mae Sai,0,,,0
+BNK2bus-MAS3,BNK2bus-MAS,daily,Mae Sai,Bangkok to Mae Sai,0,,,0
+N82bus-AMC0,N82bus-AMC,daily,Amnat Charoen,Mo Chit to Amnat Charoen,0,,,0
+N82AYU0,N82AYU,daily,Ayutthaya,Mo Chit to Ayutthaya,0,,,0
+N82BUR0,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR1,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR2,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR3,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR4,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR5,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR6,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR7,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR8,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR9,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR10,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR11,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR12,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR13,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82BUR16,N82BUR,daily,Buri Ram,Mo Chit to Buri Ram,0,,,0
+N82bus-CHA0,N82bus-CHA,daily,Chaiyaphum,Mo Chit to Chaiyaphum,0,,,0
+N82bus-CHA1,N82bus-CHA,daily,Chaiyaphum,Mo Chit to Chaiyaphum,0,,,0
+N82bus-CHN0,N82bus-CHN,daily,Chanthaburi,Mo Chit to Chanthaburi,0,,,0
+N82bus-CHN1,N82bus-CHN,daily,Chanthaburi,Mo Chit to Chanthaburi,0,,,0
+N82bus-CHN2,N82bus-CHN,daily,Chanthaburi,Mo Chit to Chanthaburi,0,,,0
+N82bus-CHN3,N82bus-CHN,daily,Chanthaburi,Mo Chit to Chanthaburi,0,,,0
+N82bus-CHN4,N82bus-CHN,daily,Chanthaburi,Mo Chit to Chanthaburi,0,,,0
+N82bus-CHN5,N82bus-CHN,daily,Chanthaburi,Mo Chit to Chanthaburi,0,,,0
+N82bus-CHN6,N82bus-CHN,daily,Chanthaburi,Mo Chit to Chanthaburi,0,,,0
+N82CGM0,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM1,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM2,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM3,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM4,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM5,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM6,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM7,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM8,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM9,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM10,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM11,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM12,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM14,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM15,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM16,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM17,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM19,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM20,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM21,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM22,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM25,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM26,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM28,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM29,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM30,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM31,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM32,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM33,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM34,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM35,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM36,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM37,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM38,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM39,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM40,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM41,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM42,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM43,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82CGM44,N82CGM,daily,Chiang Mai,Mo Chit to Chiang Mai,0,,,0
+N82bus-CHR0,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR1,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR2,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR3,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR4,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR5,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR6,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR7,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR8,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR9,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR10,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR11,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR12,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR13,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR14,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR15,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82bus-CHR16,N82bus-CHR,daily,Chiang Rai,Mo Chit to Chiang Rai,0,,,0
+N82HYJ0,N82HYJ,daily,Hat Yai Junction,Mo Chit to Hat Yai Junction,0,,,0
+N82HYJ1,N82HYJ,daily,Hat Yai Junction,Mo Chit to Hat Yai Junction,0,,,0
+N82bus-KAL0,N82bus-KAL,daily,Kalasin,Mo Chit to Kalasin,0,,,0
+N82bus-KAL1,N82bus-KAL,daily,Kalasin,Mo Chit to Kalasin,0,,,0
+N82bus-KAL2,N82bus-KAL,daily,Kalasin,Mo Chit to Kalasin,0,,,0
+N82bus-KAL3,N82bus-KAL,daily,Kalasin,Mo Chit to Kalasin,0,,,0
+N82KAM0,N82KAM,daily,Kamphaeng Phet,Mo Chit to Kamphaeng Phet,0,,,0
+N82KAM1,N82KAM,daily,Kamphaeng Phet,Mo Chit to Kamphaeng Phet,0,,,0
+N82KAM2,N82KAM,daily,Kamphaeng Phet,Mo Chit to Kamphaeng Phet,0,,,0
+N82KAM3,N82KAM,daily,Kamphaeng Phet,Mo Chit to Kamphaeng Phet,0,,,0
+N82KAM4,N82KAM,daily,Kamphaeng Phet,Mo Chit to Kamphaeng Phet,0,,,0
+N82KAM5,N82KAM,daily,Kamphaeng Phet,Mo Chit to Kamphaeng Phet,0,,,0
+N82KAM6,N82KAM,daily,Kamphaeng Phet,Mo Chit to Kamphaeng Phet,0,,,0
+N82KAM7,N82KAM,daily,Kamphaeng Phet,Mo Chit to Kamphaeng Phet,0,,,0
+N82KAM8,N82KAM,daily,Kamphaeng Phet,Mo Chit to Kamphaeng Phet,0,,,0
+N82KAM9,N82KAM,daily,Kamphaeng Phet,Mo Chit to Kamphaeng Phet,0,,,0
+N82KAC0,N82KAC,daily,Kanchanaburi,Mo Chit to Kanchanaburi,0,,,0
+N82KAC1,N82KAC,daily,Kanchanaburi,Mo Chit to Kanchanaburi,0,,,0
+N82KAC2,N82KAC,daily,Kanchanaburi,Mo Chit to Kanchanaburi,0,,,0
+N82KAC3,N82KAC,daily,Kanchanaburi,Mo Chit to Kanchanaburi,0,,,0
+N82KAC4,N82KAC,daily,Kanchanaburi,Mo Chit to Kanchanaburi,0,,,0
+N82KAC6,N82KAC,daily,Kanchanaburi,Mo Chit to Kanchanaburi,0,,,0
+N82KAC7,N82KAC,daily,Kanchanaburi,Mo Chit to Kanchanaburi,0,,,0
+N82KAC8,N82KAC,daily,Kanchanaburi,Mo Chit to Kanchanaburi,0,,,0
+N82KAC9,N82KAC,daily,Kanchanaburi,Mo Chit to Kanchanaburi,0,,,0
+N82bus-KOS0,N82bus-KOS,daily,Ko Samui,Mo Chit to Ko Samui,0,,,0
+N82bus-KOS1,N82bus-KOS,daily,Ko Samui,Mo Chit to Ko Samui,0,,,0
+N82bus-KOS2,N82bus-KOS,daily,Ko Samui,Mo Chit to Ko Samui,0,,,0
+N82NAL0,N82NAL,daily,Nakhon Lampang,Mo Chit to Nakhon Lampang,0,,,0
+N82NAL1,N82NAL,daily,Nakhon Lampang,Mo Chit to Nakhon Lampang,0,,,0
+N82NAL2,N82NAL,daily,Nakhon Lampang,Mo Chit to Nakhon Lampang,0,,,0
+N82LAM0,N82LAM,daily,Lam Phun,Mo Chit to Lam Phun,0,,,0
+N82LAM1,N82LAM,daily,Lam Phun,Mo Chit to Lam Phun,0,,,0
+N82LAM2,N82LAM,daily,Lam Phun,Mo Chit to Lam Phun,0,,,0
+N82LAM3,N82LAM,daily,Lam Phun,Mo Chit to Lam Phun,0,,,0
+N82LAM4,N82LAM,daily,Lam Phun,Mo Chit to Lam Phun,0,,,0
+N82bus-LOE0,N82bus-LOE,daily,Loei,Mo Chit to Loei,0,,,0
+N82bus-LOE2,N82bus-LOE,daily,Loei,Mo Chit to Loei,0,,,0
+N82bus-LOE3,N82bus-LOE,daily,Loei,Mo Chit to Loei,0,,,0
+N82bus-LOE4,N82bus-LOE,daily,Loei,Mo Chit to Loei,0,,,0
+N82bus-LOE5,N82bus-LOE,daily,Loei,Mo Chit to Loei,0,,,0
+N82bus-LOE6,N82bus-LOE,daily,Loei,Mo Chit to Loei,0,,,0
+N82LOR0,N82LOR,daily,Lop Buri,Mo Chit to Lop Buri,0,,,0
+N82busstop-MAM0,N82busstop-MAM,daily,Maha Sarakham,Mo Chit to Maha Sarakham,0,,,0
+N82bus-MUK0,N82bus-MUK,daily,Mukdahan,Mo Chit to Mukdahan,0,,,0
+N82bus-MUK2,N82bus-MUK,daily,Mukdahan,Mo Chit to Mukdahan,0,,,0
+N82bus-MUK3,N82bus-MUK,daily,Mukdahan,Mo Chit to Mukdahan,0,,,0
+N82bus-MUK4,N82bus-MUK,daily,Mukdahan,Mo Chit to Mukdahan,0,,,0
+N82bus-NKN0,N82bus-NKN,daily,Nakhon Nayok,Mo Chit to Nakhon Nayok,0,,,0
+N82bus-NKN1,N82bus-NKN,daily,Nakhon Nayok,Mo Chit to Nakhon Nayok,0,,,0
+N82bus-NKN2,N82bus-NKN,daily,Nakhon Nayok,Mo Chit to Nakhon Nayok,0,,,0
+N82bus-NKN3,N82bus-NKN,daily,Nakhon Nayok,Mo Chit to Nakhon Nayok,0,,,0
+N82bus-NKN4,N82bus-NKN,daily,Nakhon Nayok,Mo Chit to Nakhon Nayok,0,,,0
+N82bus-NKN5,N82bus-NKN,daily,Nakhon Nayok,Mo Chit to Nakhon Nayok,0,,,0
+N82NAN0,N82NAN,daily,Nakhon Pathom,Mo Chit to Nakhon Pathom,0,,,0
+N82bus-NKP0,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP1,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP2,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP3,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP4,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP5,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP6,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP7,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP8,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP9,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP11,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP13,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP16,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP17,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP18,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP20,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP21,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP22,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82bus-NKP23,N82bus-NKP,daily,Nakhon Phanom,Mo Chit to Nakhon Phanom,0,,,0
+N82NAK0,N82NAK,daily,Nakhon Ratchasima,Mo Chit to Nakhon Ratchasima,0,,,0
+N82NAO0,N82NAO,daily,Nakhon Sawan,Mo Chit to Nakhon Sawan,0,,,0
+N82bus-NAN0,N82bus-NAN,daily,Nan,Mo Chit to Nan,0,,,0
+N82bus-NAN1,N82bus-NAN,daily,Nan,Mo Chit to Nan,0,,,0
+N82bus-NAN2,N82bus-NAN,daily,Nan,Mo Chit to Nan,0,,,0
+N82bus-NAN3,N82bus-NAN,daily,Nan,Mo Chit to Nan,0,,,0
+N82bus-NAN4,N82bus-NAN,daily,Nan,Mo Chit to Nan,0,,,0
+N82bus-NAN5,N82bus-NAN,daily,Nan,Mo Chit to Nan,0,,,0
+N82bus-NAN6,N82bus-NAN,daily,Nan,Mo Chit to Nan,0,,,0
+N82bus-NAN7,N82bus-NAN,daily,Nan,Mo Chit to Nan,0,,,0
+N82bus-NBL0,N82bus-NBL,daily,Nong Bua Lamphu,Mo Chit to Nong Bua Lamphu,0,,,0
+N82bus-NBL1,N82bus-NBL,daily,Nong Bua Lamphu,Mo Chit to Nong Bua Lamphu,0,,,0
+N82bus-NBL2,N82bus-NBL,daily,Nong Bua Lamphu,Mo Chit to Nong Bua Lamphu,0,,,0
+N82bus-NBL3,N82bus-NBL,daily,Nong Bua Lamphu,Mo Chit to Nong Bua Lamphu,0,,,0
+N82bus-NBL4,N82bus-NBL,daily,Nong Bua Lamphu,Mo Chit to Nong Bua Lamphu,0,,,0
+N82bus-NBL6,N82bus-NBL,daily,Nong Bua Lamphu,Mo Chit to Nong Bua Lamphu,0,,,0
+N82NOH1,N82NOH,daily,Nong Khai,Mo Chit to Nong Khai,0,,,0
+N82NOH2,N82NOH,daily,Nong Khai,Mo Chit to Nong Khai,0,,,0
+N82NOH3,N82NOH,daily,Nong Khai,Mo Chit to Nong Khai,0,,,0
+N82PAT0,N82PAT,daily,Pattaya,Mo Chit to Pattaya,0,,,0
+N82bus-PET0,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PET1,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PET2,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PET3,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PET4,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PET5,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PET6,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PET7,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PET8,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PHR0,N82bus-PHR,daily,Phrae,Mo Chit to Phrae,0,,,0
+N82bus-PHR1,N82bus-PHR,daily,Phrae,Mo Chit to Phrae,0,,,0
+N82bus-PHR2,N82bus-PHR,daily,Phrae,Mo Chit to Phrae,0,,,0
+N82bus-PHA0,N82bus-PHA,daily,Phayao,Mo Chit to Phayao,0,,,0
+N82bus-PHA1,N82bus-PHA,daily,Phayao,Mo Chit to Phayao,0,,,0
+N82bus-PHA2,N82bus-PHA,daily,Phayao,Mo Chit to Phayao,0,,,0
+N82bus-PET9,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PET10,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PET11,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82bus-PET12,N82bus-PET,daily,Phetchabun,Mo Chit to Phetchabun,0,,,0
+N82PHL0,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL1,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL2,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL3,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL5,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL6,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL7,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL8,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL9,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL10,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL11,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL12,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL13,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL14,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL15,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL16,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL17,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL18,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL19,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL20,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL21,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL22,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL24,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL25,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL26,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL27,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL28,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL29,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL30,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL31,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL32,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL33,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL35,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL36,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL37,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL38,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL39,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL40,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL41,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL42,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL43,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL44,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL45,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL46,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL47,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL48,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82PHL49,N82PHL,daily,Phitsanulok,Mo Chit to Phitsanulok,0,,,0
+N82bus-PNP0,N82bus-PNP,daily,Phnom Penh,Mo Chit to Phnom Penh,0,,,0
+N82bus-PHR3,N82bus-PHR,daily,Phrae,Mo Chit to Phrae,0,,,0
+N82bus-PKT0,N82bus-PKT,daily,Phuket,Mo Chit to Phuket,0,,,0
+N82bus-PKT1,N82bus-PKT,daily,Phuket,Mo Chit to Phuket,0,,,0
+N82bus-PKT2,N82bus-PKT,daily,Phuket,Mo Chit to Phuket,0,,,0
+N82bus-PKT3,N82bus-PKT,daily,Phuket,Mo Chit to Phuket,0,,,0
+N82PHI0,N82PHI,daily,Phichit,Mo Chit to Phichit,0,,,0
+N82PHI1,N82PHI,daily,Phichit,Mo Chit to Phichit,0,,,0
+N82PHI2,N82PHI,daily,Phichit,Mo Chit to Phichit,0,,,0
+N82bus-RAY0,N82bus-RAY,daily,Rayong,Mo Chit to Rayong,0,,,0
+N82bus-RAY1,N82bus-RAY,daily,Rayong,Mo Chit to Rayong,0,,,0
+N82bus-RAY2,N82bus-RAY,daily,Rayong,Mo Chit to Rayong,0,,,0
+N82bus-RAY3,N82bus-RAY,daily,Rayong,Mo Chit to Rayong,0,,,0
+N82bus-RAY5,N82bus-RAY,daily,Rayong,Mo Chit to Rayong,0,,,0
+N82bus-RAY6,N82bus-RAY,daily,Rayong,Mo Chit to Rayong,0,,,0
+N82bus-RAY7,N82bus-RAY,daily,Rayong,Mo Chit to Rayong,0,,,0
+N82bus-RAY8,N82bus-RAY,daily,Rayong,Mo Chit to Rayong,0,,,0
+N82bus-RAY9,N82bus-RAY,daily,Rayong,Mo Chit to Rayong,0,,,0
+N82bus-RAY10,N82bus-RAY,daily,Rayong,Mo Chit to Rayong,0,,,0
+N82bus-SKN0,N82bus-SKN,daily,Sakon Nakhon,Mo Chit to Sakon Nakhon,0,,,0
+N82bus-SKN1,N82bus-SKN,daily,Sakon Nakhon,Mo Chit to Sakon Nakhon,0,,,0
+N82bus-SKN2,N82bus-SKN,daily,Sakon Nakhon,Mo Chit to Sakon Nakhon,0,,,0
+N82bus-SKN3,N82bus-SKN,daily,Sakon Nakhon,Mo Chit to Sakon Nakhon,0,,,0
+N82bus-SKN4,N82bus-SKN,daily,Sakon Nakhon,Mo Chit to Sakon Nakhon,0,,,0
+N82bus-SKN5,N82bus-SKN,daily,Sakon Nakhon,Mo Chit to Sakon Nakhon,0,,,0
+N82bus-SKN6,N82bus-SKN,daily,Sakon Nakhon,Mo Chit to Sakon Nakhon,0,,,0
+N82bus-SKN7,N82bus-SKN,daily,Sakon Nakhon,Mo Chit to Sakon Nakhon,0,,,0
+N82bus-SKN8,N82bus-SKN,daily,Sakon Nakhon,Mo Chit to Sakon Nakhon,0,,,0
+N82bus-SKN9,N82bus-SKN,daily,Sakon Nakhon,Mo Chit to Sakon Nakhon,0,,,0
+N82bus-SKN10,N82bus-SKN,daily,Sakon Nakhon,Mo Chit to Sakon Nakhon,0,,,0
+N82bus-SMP0,N82bus-SMP,daily,Samut Prakan,Mo Chit to Samut Prakan,0,,,0
+N82bus-SGB0,N82bus-SGB,daily,Sangkhla Buri,Mo Chit to Sangkhla Buri,0,,,0
+N82bus-SGB1,N82bus-SGB,daily,Sangkhla Buri,Mo Chit to Sangkhla Buri,0,,,0
+N82SAR0,N82SAR,daily,Saraburi,Mo Chit to Saraburi,0,,,0
+N82bus-SRP0,N82bus-SRP,daily,Siem Reap,Mo Chit to Siem Reap,0,,,0
+N82SIS0,N82SIS,daily,Si Saket,Mo Chit to Si Saket,0,,,0
+N82SIS1,N82SIS,daily,Si Saket,Mo Chit to Si Saket,0,,,0
+N82SIS2,N82SIS,daily,Si Saket,Mo Chit to Si Saket,0,,,0
+N82SIS3,N82SIS,daily,Si Saket,Mo Chit to Si Saket,0,,,0
+N82SIS4,N82SIS,daily,Si Saket,Mo Chit to Si Saket,0,,,0
+N82SIS5,N82SIS,daily,Si Saket,Mo Chit to Si Saket,0,,,0
+N82bus-SUK0,N82bus-SUK,daily,Sukhothai,Mo Chit to Sukhothai,0,,,0
+N82bus-SUK1,N82bus-SUK,daily,Sukhothai,Mo Chit to Sukhothai,0,,,0
+N82bus-SUK2,N82bus-SUK,daily,Sukhothai,Mo Chit to Sukhothai,0,,,0
+N82bus-SUK3,N82bus-SUK,daily,Sukhothai,Mo Chit to Sukhothai,0,,,0
+N82bus-SUK4,N82bus-SUK,daily,Sukhothai,Mo Chit to Sukhothai,0,,,0
+N82SRN0,N82SRN,daily,Surat Thani,Mo Chit to Surat Thani,0,,,0
+N82SRN1,N82SRN,daily,Surat Thani,Mo Chit to Surat Thani,0,,,0
+N82SUR0,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR1,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR2,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR3,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR4,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR5,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR6,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR7,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR8,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR9,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR10,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR12,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR13,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR14,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR15,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR16,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR17,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR18,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR19,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR20,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR21,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82SUR22,N82SUR,daily,Surin,Mo Chit to Surin,0,,,0
+N82bus-TAK0,N82bus-TAK,daily,Tak,Mo Chit to Tak,0,,,0
+N82bus-TAK1,N82bus-TAK,daily,Tak,Mo Chit to Tak,0,,,0
+N82bus-TAK2,N82bus-TAK,daily,Tak,Mo Chit to Tak,0,,,0
+N82bus-TAK3,N82bus-TAK,daily,Tak,Mo Chit to Tak,0,,,0
+N82bus-TAK4,N82bus-TAK,daily,Tak,Mo Chit to Tak,0,,,0
+N82bus-TAK5,N82bus-TAK,daily,Tak,Mo Chit to Tak,0,,,0
+N82bus-TAK6,N82bus-TAK,daily,Tak,Mo Chit to Tak,0,,,0
+N82bus-TAK7,N82bus-TAK,daily,Tak,Mo Chit to Tak,0,,,0
+N82bus-TAK8,N82bus-TAK,daily,Tak,Mo Chit to Tak,0,,,0
+N82bus-TRA0,N82bus-TRA,daily,Trat,Mo Chit to Trat,0,,,0
+N82bus-TRA1,N82bus-TRA,daily,Trat,Mo Chit to Trat,0,,,0
+N82bus-TRA2,N82bus-TRA,daily,Trat,Mo Chit to Trat,0,,,0
+N82bus-TRA3,N82bus-TRA,daily,Trat,Mo Chit to Trat,0,,,0
+N82bus-TRA4,N82bus-TRA,daily,Trat,Mo Chit to Trat,0,,,0
+N82UBO0,N82UBO,daily,Ubon Ratchathani,Mo Chit to Ubon Ratchathani,0,,,0
+N82UBO1,N82UBO,daily,Ubon Ratchathani,Mo Chit to Ubon Ratchathani,0,,,0
+N82UBO2,N82UBO,daily,Ubon Ratchathani,Mo Chit to Ubon Ratchathani,0,,,0
+N82UBO3,N82UBO,daily,Ubon Ratchathani,Mo Chit to Ubon Ratchathani,0,,,0
+N82UBO4,N82UBO,daily,Ubon Ratchathani,Mo Chit to Ubon Ratchathani,0,,,0
+N82UBO5,N82UBO,daily,Ubon Ratchathani,Mo Chit to Ubon Ratchathani,0,,,0
+N82UBO6,N82UBO,daily,Ubon Ratchathani,Mo Chit to Ubon Ratchathani,0,,,0
+N82UBO7,N82UBO,daily,Ubon Ratchathani,Mo Chit to Ubon Ratchathani,0,,,0
+N82UBO8,N82UBO,daily,Ubon Ratchathani,Mo Chit to Ubon Ratchathani,0,,,0
+N82UBO9,N82UBO,daily,Ubon Ratchathani,Mo Chit to Ubon Ratchathani,0,,,0
+N82UTT0,N82UTT,daily,Uttaradit,Mo Chit to Uttaradit,0,,,0
+N82UTT1,N82UTT,daily,Uttaradit,Mo Chit to Uttaradit,0,,,0
+N82UTT2,N82UTT,daily,Uttaradit,Mo Chit to Uttaradit,0,,,0
+N82UTT3,N82UTT,daily,Uttaradit,Mo Chit to Uttaradit,0,,,0
+N82UTT4,N82UTT,daily,Uttaradit,Mo Chit to Uttaradit,0,,,0
+N82bus-YAS0,N82bus-YAS,daily,Yasothon,Mo Chit to Yasothon,0,,,0
+N82bus-YAS1,N82bus-YAS,daily,Yasothon,Mo Chit to Yasothon,0,,,0
+BNK2SIS0,BNK2SIS,daily,Si Saket,Bangkok to Si Saket,0,,,0
+BNK2SIS1,BNK2SIS,daily,Si Saket,Bangkok to Si Saket,0,,,0
+BNK2SIS2,BNK2SIS,daily,Si Saket,Bangkok to Si Saket,0,,,0
+BNK2THG0,BNK2THG,daily,Thung Song Junction,Bangkok to Thung Song Junction,0,,,0
+bus-BKS2bus-AMP0,bus-BKS2bus-AMP,daily,Amphawa,Bangkok(Southern Bus Terminal) to Amphawa,0,,,0
+bus-BKS2BAY0,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAY1,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAY2,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAY3,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAY5,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAY6,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAY7,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAY8,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAY9,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAY10,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAY11,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAY12,bus-BKS2BAY,daily,Bang Saphan Yai,Bangkok(Southern Bus Terminal) to Bang Saphan Yai,0,,,0
+bus-BKS2BAU0,bus-BKS2BAU,daily,Ban Krut,Bangkok(Southern Bus Terminal) to Ban Krut,0,,,0
+bus-BKS2CAA0,bus-BKS2CAA,daily,Cha Am,Bangkok(Southern Bus Terminal) to Cha Am,0,,,0
+bus-BKS2CPN0,bus-BKS2CPN,daily,Chumphon,Bangkok(Southern Bus Terminal) to Chumphon,0,,,0
+bus-BKS2CPN1,bus-BKS2CPN,daily,Chumphon,Bangkok(Southern Bus Terminal) to Chumphon,0,,,0
+bus-BKS2CPN2,bus-BKS2CPN,daily,Chumphon,Bangkok(Southern Bus Terminal) to Chumphon,0,,,0
+bus-BKS2CPN3,bus-BKS2CPN,daily,Chumphon,Bangkok(Southern Bus Terminal) to Chumphon,0,,,0
+bus-BKS2CPN4,bus-BKS2CPN,daily,Chumphon,Bangkok(Southern Bus Terminal) to Chumphon,0,,,0
+bus-BKS2CPN5,bus-BKS2CPN,daily,Chumphon,Bangkok(Southern Bus Terminal) to Chumphon,0,,,0
+bus-BKS2CPN6,bus-BKS2CPN,daily,Chumphon,Bangkok(Southern Bus Terminal) to Chumphon,0,,,0
+bus-BKS2CPN7,bus-BKS2CPN,daily,Chumphon,Bangkok(Southern Bus Terminal) to Chumphon,0,,,0
+bus-BKS2HYJ0,bus-BKS2HYJ,daily,Hat Yai Junction,Bangkok(Southern Bus Terminal) to Hat Yai Junction,0,,,0
+bus-BKS2HYJ1,bus-BKS2HYJ,daily,Hat Yai Junction,Bangkok(Southern Bus Terminal) to Hat Yai Junction,0,,,0
+bus-BKS2HYJ2,bus-BKS2HYJ,daily,Hat Yai Junction,Bangkok(Southern Bus Terminal) to Hat Yai Junction,0,,,0
+bus-BKS2HHI0,bus-BKS2HHI,daily,Hua Hin,Bangkok(Southern Bus Terminal) to Hua Hin,0,,,0
+bus-BKS2KAC0,bus-BKS2KAC,daily,Kanchanaburi,Bangkok(Southern Bus Terminal) to Kanchanaburi,0,,,0
+bus-BKS2KAC1,bus-BKS2KAC,daily,Kanchanaburi,Bangkok(Southern Bus Terminal) to Kanchanaburi,0,,,0
+bus-BKS2KAC2,bus-BKS2KAC,daily,Kanchanaburi,Bangkok(Southern Bus Terminal) to Kanchanaburi,0,,,0
+bus-BKS2bus-KOP0,bus-BKS2bus-KOP,daily,Ko Pha Ngan,Bangkok(Southern Bus Terminal) to Ko Pha Ngan,0,,,0
+bus-BKS2bus-KOP1,bus-BKS2bus-KOP,daily,Ko Pha Ngan,Bangkok(Southern Bus Terminal) to Ko Pha Ngan,0,,,0
+bus-BKS2bus-KOS1,bus-BKS2bus-KOS,daily,Ko Samui,Bangkok(Southern Bus Terminal) to Ko Samui,0,,,0
+bus-BKS2bus-KOS2,bus-BKS2bus-KOS,daily,Ko Samui,Bangkok(Southern Bus Terminal) to Ko Samui,0,,,0
+bus-BKS2bus-KOS3,bus-BKS2bus-KOS,daily,Ko Samui,Bangkok(Southern Bus Terminal) to Ko Samui,0,,,0
+bus-BKS2bus-KRA0,bus-BKS2bus-KRA,daily,Krabi,Bangkok(Southern Bus Terminal) to Krabi,0,,,0
+bus-BKS2bus-KRA1,bus-BKS2bus-KRA,daily,Krabi,Bangkok(Southern Bus Terminal) to Krabi,0,,,0
+bus-BKS2bus-KRA2,bus-BKS2bus-KRA,daily,Krabi,Bangkok(Southern Bus Terminal) to Krabi,0,,,0
+bus-BKS2bus-KRA3,bus-BKS2bus-KRA,daily,Krabi,Bangkok(Southern Bus Terminal) to Krabi,0,,,0
+bus-BKS2NAH0,bus-BKS2NAH,daily,Nakhon Si Thammarat,Bangkok(Southern Bus Terminal) to Nakhon Si Thammarat,0,,,0
+bus-BKS2NAH1,bus-BKS2NAH,daily,Nakhon Si Thammarat,Bangkok(Southern Bus Terminal) to Nakhon Si Thammarat,0,,,0
+bus-BKS2NAH2,bus-BKS2NAH,daily,Nakhon Si Thammarat,Bangkok(Southern Bus Terminal) to Nakhon Si Thammarat,0,,,0
+bus-BKS2NAH3,bus-BKS2NAH,daily,Nakhon Si Thammarat,Bangkok(Southern Bus Terminal) to Nakhon Si Thammarat,0,,,0
+bus-BKS2NAH4,bus-BKS2NAH,daily,Nakhon Si Thammarat,Bangkok(Southern Bus Terminal) to Nakhon Si Thammarat,0,,,0
+bus-BKS2NAH5,bus-BKS2NAH,daily,Nakhon Si Thammarat,Bangkok(Southern Bus Terminal) to Nakhon Si Thammarat,0,,,0
+bus-BKS2NAH6,bus-BKS2NAH,daily,Nakhon Si Thammarat,Bangkok(Southern Bus Terminal) to Nakhon Si Thammarat,0,,,0
+bus-BKS2NAH7,bus-BKS2NAH,daily,Nakhon Si Thammarat,Bangkok(Southern Bus Terminal) to Nakhon Si Thammarat,0,,,0
+bus-BKS2bus-NAR0,bus-BKS2bus-NAR,daily,Narathiwat,Bangkok(Southern Bus Terminal) to Narathiwat,0,,,0
+bus-BKS2bus-NAR1,bus-BKS2bus-NAR,daily,Narathiwat,Bangkok(Southern Bus Terminal) to Narathiwat,0,,,0
+bus-BKS2bus-NAR2,bus-BKS2bus-NAR,daily,Narathiwat,Bangkok(Southern Bus Terminal) to Narathiwat,0,,,0
+bus-BKS2bus-NAR3,bus-BKS2bus-NAR,daily,Narathiwat,Bangkok(Southern Bus Terminal) to Narathiwat,0,,,0
+bus-BKS2bus-NAR4,bus-BKS2bus-NAR,daily,Narathiwat,Bangkok(Southern Bus Terminal) to Narathiwat,0,,,0
+bus-BKS2bus-PAT0,bus-BKS2bus-PAT,daily,Pattani,Bangkok(Southern Bus Terminal) to Pattani,0,,,0
+bus-BKS2PAT0,bus-BKS2PAT,daily,Pattaya,Bangkok(Southern Bus Terminal) to Pattaya,0,,,0
+bus-BKS2bus-PHN0,bus-BKS2bus-PHN,daily,Phang Nga,Bangkok(Southern Bus Terminal) to Phang Nga,0,,,0
+bus-BKS2bus-PHN1,bus-BKS2bus-PHN,daily,Phang Nga,Bangkok(Southern Bus Terminal) to Phang Nga,0,,,0
+bus-BKS2bus-PHN3,bus-BKS2bus-PHN,daily,Phang Nga,Bangkok(Southern Bus Terminal) to Phang Nga,0,,,0
+bus-BKS2PHE0,bus-BKS2PHE,daily,Phetchaburi,Bangkok(Southern Bus Terminal) to Phetchaburi,0,,,0
+bus-BKS2PHE1,bus-BKS2PHE,daily,Phetchaburi,Bangkok(Southern Bus Terminal) to Phetchaburi,0,,,0
+bus-BKS2PHE2,bus-BKS2PHE,daily,Phetchaburi,Bangkok(Southern Bus Terminal) to Phetchaburi,0,,,0
+bus-BKS2PHE3,bus-BKS2PHE,daily,Phetchaburi,Bangkok(Southern Bus Terminal) to Phetchaburi,0,,,0
+bus-BKS2PHE4,bus-BKS2PHE,daily,Phetchaburi,Bangkok(Southern Bus Terminal) to Phetchaburi,0,,,0
+bus-BKS2PHE5,bus-BKS2PHE,daily,Phetchaburi,Bangkok(Southern Bus Terminal) to Phetchaburi,0,,,0
+bus-BKS2PHE6,bus-BKS2PHE,daily,Phetchaburi,Bangkok(Southern Bus Terminal) to Phetchaburi,0,,,0
+bus-BKS2bus-PKT0,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2bus-PKT1,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2bus-PKT2,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2bus-PKT3,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2bus-PKT4,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2bus-PKT5,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2bus-PKT6,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2bus-PKT7,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2bus-PKT8,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2bus-PKT9,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2bus-PKT10,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2bus-PKT11,bus-BKS2bus-PKT,daily,Phuket,Bangkok(Southern Bus Terminal) to Phuket,0,,,0
+bus-BKS2PKK0,bus-BKS2PKK,daily,Prachuap Khiri Khan,Bangkok(Southern Bus Terminal) to Prachuap Khiri Khan,0,,,0
+bus-BKS2bus-RNN0,bus-BKS2bus-RNN,daily,Ranong,Bangkok(Southern Bus Terminal) to Ranong,0,,,0
+bus-BKS2bus-RNN1,bus-BKS2bus-RNN,daily,Ranong,Bangkok(Southern Bus Terminal) to Ranong,0,,,0
+bus-BKS2MAE0,bus-BKS2MAE,daily,Maeklong,Bangkok(Southern Bus Terminal) to Maeklong,0,,,0
+bus-BKS2bus-SAT0,bus-BKS2bus-SAT,daily,Satun,Bangkok(Southern Bus Terminal) to Satun,0,,,0
+bus-BKS2bus-SAT1,bus-BKS2bus-SAT,daily,Satun,Bangkok(Southern Bus Terminal) to Satun,0,,,0
+bus-BKS2bus-SAT2,bus-BKS2bus-SAT,daily,Satun,Bangkok(Southern Bus Terminal) to Satun,0,,,0
+bus-BKS2bus-SAT3,bus-BKS2bus-SAT,daily,Satun,Bangkok(Southern Bus Terminal) to Satun,0,,,0
+bus-BKS2bus-SAT4,bus-BKS2bus-SAT,daily,Satun,Bangkok(Southern Bus Terminal) to Satun,0,,,0
+bus-BKS2bus-SON0,bus-BKS2bus-SON,daily,Songkhla,Bangkok(Southern Bus Terminal) to Songkhla,0,,,0
+bus-BKS2bus-SON1,bus-BKS2bus-SON,daily,Songkhla,Bangkok(Southern Bus Terminal) to Songkhla,0,,,0
+bus-BKS2bus-SON2,bus-BKS2bus-SON,daily,Songkhla,Bangkok(Southern Bus Terminal) to Songkhla,0,,,0
+bus-BKS2bus-SON3,bus-BKS2bus-SON,daily,Songkhla,Bangkok(Southern Bus Terminal) to Songkhla,0,,,0
+bus-BKS2bus-SON4,bus-BKS2bus-SON,daily,Songkhla,Bangkok(Southern Bus Terminal) to Songkhla,0,,,0
+bus-BKS2bus-SON5,bus-BKS2bus-SON,daily,Songkhla,Bangkok(Southern Bus Terminal) to Songkhla,0,,,0
+bus-BKS2SRN0,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2SRN2,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2SRN3,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2SRN4,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2SRN5,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2SRN6,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2SRN7,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2SRN8,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2SRN9,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2SRN10,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2SRN11,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2SRN12,bus-BKS2SRN,daily,Surat Thani,Bangkok(Southern Bus Terminal) to Surat Thani,0,,,0
+bus-BKS2TRA0,bus-BKS2TRA,daily,Trang,Bangkok(Southern Bus Terminal) to Trang,0,,,0
+bus-BKS2TRA1,bus-BKS2TRA,daily,Trang,Bangkok(Southern Bus Terminal) to Trang,0,,,0
+bus-BKS2TRA2,bus-BKS2TRA,daily,Trang,Bangkok(Southern Bus Terminal) to Trang,0,,,0
+bus-BKS2YAL0,bus-BKS2YAL,daily,Yala,Bangkok(Southern Bus Terminal) to Yala,0,,,0
+bus-BKS2YAL1,bus-BKS2YAL,daily,Yala,Bangkok(Southern Bus Terminal) to Yala,0,,,0
+bus-BKS2YAL2,bus-BKS2YAL,daily,Yala,Bangkok(Southern Bus Terminal) to Yala,0,,,0
+bus-BKS2YAL3,bus-BKS2YAL,daily,Yala,Bangkok(Southern Bus Terminal) to Yala,0,,,0
+bus-BKS2YAL4,bus-BKS2YAL,daily,Yala,Bangkok(Southern Bus Terminal) to Yala,0,,,0
+BNK2SRN0,BNK2SRN,daily,Surat Thani,Bangkok to Surat Thani,0,,,0
+BNK2SRN1,BNK2SRN,daily,Surat Thani,Bangkok to Surat Thani,0,,,0
+BNK2SRN2,BNK2SRN,daily,Surat Thani,Bangkok to Surat Thani,0,,,0
+BNK2SUR0,BNK2SUR,daily,Surin,Bangkok to Surin,0,,,0
+BNK2SUR1,BNK2SUR,daily,Surin,Bangkok to Surin,0,,,0
+BNK2UBO0,BNK2UBO,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+BNK2UBO1,BNK2UBO,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+BNK2UBO2,BNK2UBO,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+BNK2UBO3,BNK2UBO,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+BNK2UBO4,BNK2UBO,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+BNK2UBO5,BNK2UBO,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+BNK2UBO6,BNK2UBO,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+BNK2UBO7,BNK2UBO,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+BNK2UBO8,BNK2UBO,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+BNK2UBO9,BNK2UBO,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+BNK2UBO10,BNK2UBO,daily,Ubon Ratchathani,Bangkok to Ubon Ratchathani,0,,,0
+BAY2BNK0,BAY2BNK,daily,Bangkok,Bang Saphan Yai to Bangkok,0,,,0
+BAY2BNK1,BAY2BNK,daily,Bangkok,Bang Saphan Yai to Bangkok,0,,,0
+BAY2BNK2,BAY2BNK,daily,Bangkok,Bang Saphan Yai to Bangkok,0,,,0
+BAY2BNK3,BAY2BNK,daily,Bangkok,Bang Saphan Yai to Bangkok,0,,,0
+BAY2BNK4,BAY2BNK,daily,Bangkok,Bang Saphan Yai to Bangkok,0,,,0
+BAY2BNK5,BAY2BNK,daily,Bangkok,Bang Saphan Yai to Bangkok,0,,,0
+BAY2BNK6,BAY2BNK,daily,Bangkok,Bang Saphan Yai to Bangkok,0,,,0
+BAY2BNK7,BAY2BNK,daily,Bangkok,Bang Saphan Yai to Bangkok,0,,,0
+BAY2BNK8,BAY2BNK,daily,Bangkok,Bang Saphan Yai to Bangkok,0,,,0
+BAY2BNK9,BAY2BNK,daily,Bangkok,Bang Saphan Yai to Bangkok,0,,,0
+BUR2ARY0,BUR2ARY,daily,Aranyaprathet,Buri Ram to Aranyaprathet,0,,,0
+BUR2BNK0,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK1,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK2,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK3,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK4,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK5,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK6,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK7,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK8,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK9,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK10,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK11,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK12,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK13,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK14,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK15,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2BNK16,BUR2BNK,daily,Bangkok,Buri Ram to Bangkok,0,,,0
+BUR2CHB0,BUR2CHB,daily,Chon Buri,Buri Ram to Chon Buri,0,,,0
+BUR2NAK0,BUR2NAK,daily,Nakhon Ratchasima,Buri Ram to Nakhon Ratchasima,0,,,0
+BUR2bus-NNR0,BUR2bus-NNR,daily,Nang Rong,Buri Ram to Nang Rong,0,,,0
+BUR2bus-NNR1,BUR2bus-NNR,daily,Nang Rong,Buri Ram to Nang Rong,0,,,0
+BUR2PAT0,BUR2PAT,daily,Pattaya,Buri Ram to Pattaya,0,,,0
+BUR2bus-RAY0,BUR2bus-RAY,daily,Rayong,Buri Ram to Rayong,0,,,0
+BUR2SUR0,BUR2SUR,daily,Surin,Buri Ram to Surin,0,,,0
+CAA2BNK0,CAA2BNK,daily,Bangkok,Cha Am to Bangkok,0,,,0
+CAA2HHI0,CAA2HHI,daily,Hua Hin,Cha Am to Hua Hin,0,,,0
+CAA2NAK0,CAA2NAK,daily,Nakhon Ratchasima,Cha Am to Nakhon Ratchasima,0,,,0
+CAA2NAK1,CAA2NAK,daily,Nakhon Ratchasima,Cha Am to Nakhon Ratchasima,0,,,0
+CAA2NAK2,CAA2NAK,daily,Nakhon Ratchasima,Cha Am to Nakhon Ratchasima,0,,,0
+CAA2NAK3,CAA2NAK,daily,Nakhon Ratchasima,Cha Am to Nakhon Ratchasima,0,,,0
+CAA2NAK4,CAA2NAK,daily,Nakhon Ratchasima,Cha Am to Nakhon Ratchasima,0,,,0
+CAA2PHE0,CAA2PHE,daily,Phetchaburi,Cha Am to Phetchaburi,0,,,0
+bus-CHA2BNK0,bus-CHA2BNK,daily,Bangkok,Chaiyaphum to Bangkok,0,,,0
+bus-CHA2BNK1,bus-CHA2BNK,daily,Bangkok,Chaiyaphum to Bangkok,0,,,0
+bus-CHN2BNK0,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK1,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK2,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK3,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK4,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK5,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK6,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK7,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK8,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK9,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK10,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK11,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CHN2BNK12,bus-CHN2BNK,daily,Bangkok,Chanthaburi to Bangkok,0,,,0
+bus-CKO2BNK0,bus-CKO2BNK,daily,Bangkok,Chiang Khong to Bangkok,0,,,0
+bus-CKO2BNK1,bus-CKO2BNK,daily,Bangkok,Chiang Khong to Bangkok,0,,,0
+bus-CKO2BNK2,bus-CKO2BNK,daily,Bangkok,Chiang Khong to Bangkok,0,,,0
+bus-CKO2BNK3,bus-CKO2BNK,daily,Bangkok,Chiang Khong to Bangkok,0,,,0
+bus-CKO2BNK4,bus-CKO2BNK,daily,Bangkok,Chiang Khong to Bangkok,0,,,0
+bus-CKO2bus-CHR0,bus-CKO2bus-CHR,daily,Chiang Rai,Chiang Khong to Chiang Rai,0,,,0
+CGM2BNK0,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK1,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK2,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK3,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK4,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK5,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK7,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK8,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK9,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK10,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK17,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK19,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK20,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK22,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK23,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK24,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK25,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK28,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK29,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK30,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK31,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK33,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK34,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK35,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK36,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK37,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK38,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK39,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK40,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK41,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK42,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK43,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2BNK44,CGM2BNK,daily,Bangkok,Chiang Mai to Bangkok,0,,,0
+CGM2bus-CHR0,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR1,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR2,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR3,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR4,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR5,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR6,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR7,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR8,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR9,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR10,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR11,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR12,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR13,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2bus-CHR14,CGM2bus-CHR,daily,Chiang Rai,Chiang Mai to Chiang Rai,0,,,0
+CGM2HHI0,CGM2HHI,daily,Hua Hin,Chiang Mai to Hua Hin,0,,,0
+CGM2HHI1,CGM2HHI,daily,Hua Hin,Chiang Mai to Hua Hin,0,,,0
+CGM2HHI2,CGM2HHI,daily,Hua Hin,Chiang Mai to Hua Hin,0,,,0
+CGM2KHE2,CGM2KHE,daily,Khon Kaen,Chiang Mai to Khon Kaen,0,,,0
+CGM2bus-KNY0,CGM2bus-KNY,daily,Khun Yuam,Chiang Mai to Khun Yuam,0,,,0
+CGM2bus-KOC0,CGM2bus-KOC,daily,Ko Chang,Chiang Mai to Ko Chang,0,,,0
+CGM2bus-KSM0,CGM2bus-KSM,daily,Ko Samet,Chiang Mai to Ko Samet,0,,,0
+CGM2bus-MHS0,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS1,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS2,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS3,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS4,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS5,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS6,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS7,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS8,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS9,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS10,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS11,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS12,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS13,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS14,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS15,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS16,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS17,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS18,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS19,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS20,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MHS21,CGM2bus-MHS,daily,Mae Hong Son,Chiang Mai to Mae Hong Son,0,,,0
+CGM2bus-MAG0,CGM2bus-MAG,daily,Mae Sariang,Chiang Mai to Mae Sariang,0,,,0
+CGM2bus-PAI0,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI1,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI2,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI3,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI4,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI5,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI6,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI7,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI8,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI9,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI10,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI11,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI12,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI13,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI14,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PAI15,CGM2bus-PAI,daily,Pai,Chiang Mai to Pai,0,,,0
+CGM2bus-PRO0,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-PRO1,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-PRO2,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-PRO3,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-PRO4,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-PRO5,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-PRO6,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-PRO7,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-PRO8,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-PRO9,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-PRO10,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-PRO11,CGM2bus-PRO,daily,Phrao,Chiang Mai to Phrao,0,,,0
+CGM2bus-SUK0,CGM2bus-SUK,daily,Sukhothai,Chiang Mai to Sukhothai,0,,,0
+bus-CHR2BNK0,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK1,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK2,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK3,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK4,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK5,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK7,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK9,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK12,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK13,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK14,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK16,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK19,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK20,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK21,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK22,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK23,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK24,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK25,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK27,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK28,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK29,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK30,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2BNK31,bus-CHR2BNK,daily,Bangkok,Chiang Rai to Bangkok,0,,,0
+bus-CHR2bus-CHK0,bus-CHR2bus-CHK,daily,Chiang Kham,Chiang Rai to Chiang Kham,0,,,0
+bus-CHR2bus-CKO0,bus-CHR2bus-CKO,daily,Chiang Khong,Chiang Rai to Chiang Khong,0,,,0
+bus-CHR2CGM0,bus-CHR2CGM,daily,Chiang Mai,Chiang Rai to Chiang Mai,0,,,0
+bus-CHR2CGM1,bus-CHR2CGM,daily,Chiang Mai,Chiang Rai to Chiang Mai,0,,,0
+bus-CHR2CGM2,bus-CHR2CGM,daily,Chiang Mai,Chiang Rai to Chiang Mai,0,,,0
+bus-CHR2CGM3,bus-CHR2CGM,daily,Chiang Mai,Chiang Rai to Chiang Mai,0,,,0
+bus-CHR2CGM4,bus-CHR2CGM,daily,Chiang Mai,Chiang Rai to Chiang Mai,0,,,0
+bus-CHR2CGM5,bus-CHR2CGM,daily,Chiang Mai,Chiang Rai to Chiang Mai,0,,,0
+bus-CHR2CGM6,bus-CHR2CGM,daily,Chiang Mai,Chiang Rai to Chiang Mai,0,,,0
+bus-CHR2CGM7,bus-CHR2CGM,daily,Chiang Mai,Chiang Rai to Chiang Mai,0,,,0
+bus-CHR2CGM8,bus-CHR2CGM,daily,Chiang Mai,Chiang Rai to Chiang Mai,0,,,0
+bus-CHR2CGM9,bus-CHR2CGM,daily,Chiang Mai,Chiang Rai to Chiang Mai,0,,,0
+bus-CHR2CGM10,bus-CHR2CGM,daily,Chiang Mai,Chiang Rai to Chiang Mai,0,,,0
+bus-CHR2bus-CHS0,bus-CHR2bus-CHS,daily,Chiang Saen,Chiang Rai to Chiang Saen,0,,,0
+bus-CHR2bus-CHS1,bus-CHR2bus-CHS,daily,Chiang Saen,Chiang Rai to Chiang Saen,0,,,0
+bus-CHR2bus-GDT0,bus-CHR2bus-GDT,daily,Golden Triangle,Chiang Rai to Golden Triangle,0,,,0
+bus-CHR2KHE0,bus-CHR2KHE,daily,Khon Kaen,Chiang Rai to Khon Kaen,0,,,0
+bus-CHR2KHE1,bus-CHR2KHE,daily,Khon Kaen,Chiang Rai to Khon Kaen,0,,,0
+bus-CHR2KHE2,bus-CHR2KHE,daily,Khon Kaen,Chiang Rai to Khon Kaen,0,,,0
+bus-CHR2KHE3,bus-CHR2KHE,daily,Khon Kaen,Chiang Rai to Khon Kaen,0,,,0
+bus-CHR2KHE4,bus-CHR2KHE,daily,Khon Kaen,Chiang Rai to Khon Kaen,0,,,0
+bus-CHR2NAL0,bus-CHR2NAL,daily,Nakhon Lampang,Chiang Rai to Nakhon Lampang,0,,,0
+bus-CHR2NAL1,bus-CHR2NAL,daily,Nakhon Lampang,Chiang Rai to Nakhon Lampang,0,,,0
+bus-CHR2NAL2,bus-CHR2NAL,daily,Nakhon Lampang,Chiang Rai to Nakhon Lampang,0,,,0
+bus-CHR2NAL3,bus-CHR2NAL,daily,Nakhon Lampang,Chiang Rai to Nakhon Lampang,0,,,0
+bus-CHR2NAL4,bus-CHR2NAL,daily,Nakhon Lampang,Chiang Rai to Nakhon Lampang,0,,,0
+bus-CHR2NAL5,bus-CHR2NAL,daily,Nakhon Lampang,Chiang Rai to Nakhon Lampang,0,,,0
+bus-CHR2bus-MAS0,bus-CHR2bus-MAS,daily,Mae Sai,Chiang Rai to Mae Sai,0,,,0
+bus-CHR2bus-MAT0,bus-CHR2bus-MAT,daily,Mae Sot,Chiang Rai to Mae Sot,0,,,0
+bus-CHR2bus-MAT1,bus-CHR2bus-MAT,daily,Mae Sot,Chiang Rai to Mae Sot,0,,,0
+bus-CHR2bus-MAT2,bus-CHR2bus-MAT,daily,Mae Sot,Chiang Rai to Mae Sot,0,,,0
+bus-CHR2bus-MAT3,bus-CHR2bus-MAT,daily,Mae Sot,Chiang Rai to Mae Sot,0,,,0
+bus-CHR2bus-NKP0,bus-CHR2bus-NKP,daily,Nakhon Phanom,Chiang Rai to Nakhon Phanom,0,,,0
+bus-CHR2bus-NKP1,bus-CHR2bus-NKP,daily,Nakhon Phanom,Chiang Rai to Nakhon Phanom,0,,,0
+bus-CHR2bus-NKP2,bus-CHR2bus-NKP,daily,Nakhon Phanom,Chiang Rai to Nakhon Phanom,0,,,0
+bus-CHR2bus-NKP3,bus-CHR2bus-NKP,daily,Nakhon Phanom,Chiang Rai to Nakhon Phanom,0,,,0
+bus-CHR2bus-PHA0,bus-CHR2bus-PHA,daily,Phayao,Chiang Rai to Phayao,0,,,0
+bus-CHR2PHL0,bus-CHR2PHL,daily,Phitsanulok,Chiang Rai to Phitsanulok,0,,,0
+bus-CHR2PHL1,bus-CHR2PHL,daily,Phitsanulok,Chiang Rai to Phitsanulok,0,,,0
+bus-CHR2PHL2,bus-CHR2PHL,daily,Phitsanulok,Chiang Rai to Phitsanulok,0,,,0
+bus-CHR2PHL3,bus-CHR2PHL,daily,Phitsanulok,Chiang Rai to Phitsanulok,0,,,0
+bus-CHR2PHL4,bus-CHR2PHL,daily,Phitsanulok,Chiang Rai to Phitsanulok,0,,,0
+bus-CHR2PHL5,bus-CHR2PHL,daily,Phitsanulok,Chiang Rai to Phitsanulok,0,,,0
+bus-CHR2bus-SUK0,bus-CHR2bus-SUK,daily,Sukhothai,Chiang Rai to Sukhothai,0,,,0
+bus-CHR2bus-SUK1,bus-CHR2bus-SUK,daily,Sukhothai,Chiang Rai to Sukhothai,0,,,0
+bus-CHR2bus-SUK2,bus-CHR2bus-SUK,daily,Sukhothai,Chiang Rai to Sukhothai,0,,,0
+bus-CHS2bus-CHR0,bus-CHS2bus-CHR,daily,Chiang Rai,Chiang Saen to Chiang Rai,0,,,0
+bus-CHS2bus-CHR1,bus-CHS2bus-CHR,daily,Chiang Rai,Chiang Saen to Chiang Rai,0,,,0
+CHB2ARY0,CHB2ARY,daily,Aranyaprathet,Chon Buri to Aranyaprathet,0,,,0
+CHB2ARY1,CHB2ARY,daily,Aranyaprathet,Chon Buri to Aranyaprathet,0,,,0
+CHB2ARY2,CHB2ARY,daily,Aranyaprathet,Chon Buri to Aranyaprathet,0,,,0
+CHB2BNK1,CHB2BNK,daily,Bangkok,Chon Buri to Bangkok,0,,,0
+CHB2BNK2,CHB2BNK,daily,Bangkok,Chon Buri to Bangkok,0,,,0
+CHB2BNK3,CHB2BNK,daily,Bangkok,Chon Buri to Bangkok,0,,,0
+CHB2BUR0,CHB2BUR,daily,Buri Ram,Chon Buri to Buri Ram,0,,,0
+CHB2bus-MUK0,CHB2bus-MUK,daily,Mukdahan,Chon Buri to Mukdahan,0,,,0
+CHB2SUR0,CHB2SUR,daily,Surin,Chon Buri to Surin,0,,,0
+CHB2SUR1,CHB2SUR,daily,Surin,Chon Buri to Surin,0,,,0
+CHB2SUR2,CHB2SUR,daily,Surin,Chon Buri to Surin,0,,,0
+CPN2BNK0,CPN2BNK,daily,Bangkok,Chumphon to Bangkok,0,,,0
+CPN2BNK1,CPN2BNK,daily,Bangkok,Chumphon to Bangkok,0,,,0
+CPN2BNK2,CPN2BNK,daily,Bangkok,Chumphon to Bangkok,0,,,0
+CPN2HYJ0,CPN2HYJ,daily,Hat Yai Junction,Chumphon to Hat Yai Junction,0,,,0
+CPN2HYJ1,CPN2HYJ,daily,Hat Yai Junction,Chumphon to Hat Yai Junction,0,,,0
+CPN2HYJ2,CPN2HYJ,daily,Hat Yai Junction,Chumphon to Hat Yai Junction,0,,,0
+CPN2bus-PKT0,CPN2bus-PKT,daily,Phuket,Chumphon to Phuket,0,,,0
+CPN2bus-PKT1,CPN2bus-PKT,daily,Phuket,Chumphon to Phuket,0,,,0
+CPN2bus-PKT2,CPN2bus-PKT,daily,Phuket,Chumphon to Phuket,0,,,0
+CPN2bus-PKT3,CPN2bus-PKT,daily,Phuket,Chumphon to Phuket,0,,,0
+CPN2bus-PKT4,CPN2bus-PKT,daily,Phuket,Chumphon to Phuket,0,,,0
+CPN2bus-RNN0,CPN2bus-RNN,daily,Ranong,Chumphon to Ranong,0,,,0
+CPN2bus-RNN1,CPN2bus-RNN,daily,Ranong,Chumphon to Ranong,0,,,0
+bus-DMT2KAC0,bus-DMT2KAC,daily,Kanchanaburi,Dan Makham Tia to Kanchanaburi,0,,,0
+bus-ERW2KAC0,bus-ERW2KAC,daily,Kanchanaburi,Erawan Waterfalls to Kanchanaburi,0,,,0
+HYJ2BNK0,HYJ2BNK,daily,Bangkok,Hat Yai Junction to Bangkok,0,,,0
+HYJ2BNK1,HYJ2BNK,daily,Bangkok,Hat Yai Junction to Bangkok,0,,,0
+HYJ2BNK2,HYJ2BNK,daily,Bangkok,Hat Yai Junction to Bangkok,0,,,0
+HYJ2BNK3,HYJ2BNK,daily,Bangkok,Hat Yai Junction to Bangkok,0,,,0
+HYJ2BNK4,HYJ2BNK,daily,Bangkok,Hat Yai Junction to Bangkok,0,,,0
+HYJ2bus-PKT0,HYJ2bus-PKT,daily,Phuket,Hat Yai Junction to Phuket,0,,,0
+HYJ2bus-PKT1,HYJ2bus-PKT,daily,Phuket,Hat Yai Junction to Phuket,0,,,0
+HYJ2bus-PKT2,HYJ2bus-PKT,daily,Phuket,Hat Yai Junction to Phuket,0,,,0
+HYJ2bus-PKT3,HYJ2bus-PKT,daily,Phuket,Hat Yai Junction to Phuket,0,,,0
+HYJ2bus-PKT4,HYJ2bus-PKT,daily,Phuket,Hat Yai Junction to Phuket,0,,,0
+HYJ2bus-PKT5,HYJ2bus-PKT,daily,Phuket,Hat Yai Junction to Phuket,0,,,0
+HYJ2bus-PKT6,HYJ2bus-PKT,daily,Phuket,Hat Yai Junction to Phuket,0,,,0
+HYJ2bus-PKT7,HYJ2bus-PKT,daily,Phuket,Hat Yai Junction to Phuket,0,,,0
+HYJ2bus-PKT8,HYJ2bus-PKT,daily,Phuket,Hat Yai Junction to Phuket,0,,,0
+HYJ2bus-PKT9,HYJ2bus-PKT,daily,Phuket,Hat Yai Junction to Phuket,0,,,0
+HYJ2TRA0,HYJ2TRA,daily,Trang,Hat Yai Junction to Trang,0,,,0
+HHI2BNK0,HHI2BNK,daily,Bangkok,Hua Hin to Bangkok,0,,,0
+HHI2CAA1,HHI2CAA,daily,Cha Am,Hua Hin to Cha Am,0,,,0
+HHI2CGM0,HHI2CGM,daily,Chiang Mai,Hua Hin to Chiang Mai,0,,,0
+HHI2CGM1,HHI2CGM,daily,Chiang Mai,Hua Hin to Chiang Mai,0,,,0
+HHI2CGM2,HHI2CGM,daily,Chiang Mai,Hua Hin to Chiang Mai,0,,,0
+HHI2NAK0,HHI2NAK,daily,Nakhon Ratchasima,Hua Hin to Nakhon Ratchasima,0,,,0
+HHI2NAK1,HHI2NAK,daily,Nakhon Ratchasima,Hua Hin to Nakhon Ratchasima,0,,,0
+HHI2NAK2,HHI2NAK,daily,Nakhon Ratchasima,Hua Hin to Nakhon Ratchasima,0,,,0
+HHI2NAK3,HHI2NAK,daily,Nakhon Ratchasima,Hua Hin to Nakhon Ratchasima,0,,,0
+HHI2NAK4,HHI2NAK,daily,Nakhon Ratchasima,Hua Hin to Nakhon Ratchasima,0,,,0
+HHI2PHE0,HHI2PHE,daily,Phetchaburi,Hua Hin to Phetchaburi,0,,,0
+HHI2bus-PKT0,HHI2bus-PKT,daily,Phuket,Hua Hin to Phuket,0,,,0
+HHI2bus-PKT1,HHI2bus-PKT,daily,Phuket,Hua Hin to Phuket,0,,,0
+HHI2bus-PKT2,HHI2bus-PKT,daily,Phuket,Hua Hin to Phuket,0,,,0
+HHI2bus-PKT3,HHI2bus-PKT,daily,Phuket,Hua Hin to Phuket,0,,,0
+HHI2PKK0,HHI2PKK,daily,Prachuap Khiri Khan,Hua Hin to Prachuap Khiri Khan,0,,,0
+HHI2PKK1,HHI2PKK,daily,Prachuap Khiri Khan,Hua Hin to Prachuap Khiri Khan,0,,,0
+HHI2bus-RNN0,HHI2bus-RNN,daily,Ranong,Hua Hin to Ranong,0,,,0
+HHI2bus-RNN1,HHI2bus-RNN,daily,Ranong,Hua Hin to Ranong,0,,,0
+HHI2SRN0,HHI2SRN,daily,Surat Thani,Hua Hin to Surat Thani,0,,,0
+HHI2SRN1,HHI2SRN,daily,Surat Thani,Hua Hin to Surat Thani,0,,,0
+HHI2SVB0,HHI2SVB,daily,Suvarnabhumi Airport,Hua Hin to Suvarnabhumi Airport,0,,,0
+HHI2SVB1,HHI2SVB,daily,Suvarnabhumi Airport,Hua Hin to Suvarnabhumi Airport,0,,,0
+HHI2SVB2,HHI2SVB,daily,Suvarnabhumi Airport,Hua Hin to Suvarnabhumi Airport,0,,,0
+HHI2SVB3,HHI2SVB,daily,Suvarnabhumi Airport,Hua Hin to Suvarnabhumi Airport,0,,,0
+HHI2SVB4,HHI2SVB,daily,Suvarnabhumi Airport,Hua Hin to Suvarnabhumi Airport,0,,,0
+HHI2SVB5,HHI2SVB,daily,Suvarnabhumi Airport,Hua Hin to Suvarnabhumi Airport,0,,,0
+bus-KAL2BNK0,bus-KAL2BNK,daily,Bangkok,Kalasin to Bangkok,0,,,0
+bus-KAL2BNK1,bus-KAL2BNK,daily,Bangkok,Kalasin to Bangkok,0,,,0
+bus-KAL2BNK2,bus-KAL2BNK,daily,Bangkok,Kalasin to Bangkok,0,,,0
+bus-KAL2BNK3,bus-KAL2BNK,daily,Bangkok,Kalasin to Bangkok,0,,,0
+KAM2BNK0,KAM2BNK,daily,Bangkok,Kamphaeng Phet to Bangkok,0,,,0
+KAM2BNK1,KAM2BNK,daily,Bangkok,Kamphaeng Phet to Bangkok,0,,,0
+KAM2BNK2,KAM2BNK,daily,Bangkok,Kamphaeng Phet to Bangkok,0,,,0
+KAM2BNK4,KAM2BNK,daily,Bangkok,Kamphaeng Phet to Bangkok,0,,,0
+KAM2BNK5,KAM2BNK,daily,Bangkok,Kamphaeng Phet to Bangkok,0,,,0
+KAM2BNK6,KAM2BNK,daily,Bangkok,Kamphaeng Phet to Bangkok,0,,,0
+KAM2BNK7,KAM2BNK,daily,Bangkok,Kamphaeng Phet to Bangkok,0,,,0
+KAM2BNK8,KAM2BNK,daily,Bangkok,Kamphaeng Phet to Bangkok,0,,,0
+KAM2BNK9,KAM2BNK,daily,Bangkok,Kamphaeng Phet to Bangkok,0,,,0
+KAM2BNK10,KAM2BNK,daily,Bangkok,Kamphaeng Phet to Bangkok,0,,,0
+KAM2PHL0,KAM2PHL,daily,Phitsanulok,Kamphaeng Phet to Phitsanulok,0,,,0
+KAM2bus-SUK0,KAM2bus-SUK,daily,Sukhothai,Kamphaeng Phet to Sukhothai,0,,,0
+KAC2BNK0,KAC2BNK,daily,Bangkok,Kanchanaburi to Bangkok,0,,,0
+KAC2BNK1,KAC2BNK,daily,Bangkok,Kanchanaburi to Bangkok,0,,,0
+KAC2BNK2,KAC2BNK,daily,Bangkok,Kanchanaburi to Bangkok,0,,,0
+KAC2BNK3,KAC2BNK,daily,Bangkok,Kanchanaburi to Bangkok,0,,,0
+KAC2BNK4,KAC2BNK,daily,Bangkok,Kanchanaburi to Bangkok,0,,,0
+KAC2BNK5,KAC2BNK,daily,Bangkok,Kanchanaburi to Bangkok,0,,,0
+KAC2BNK6,KAC2BNK,daily,Bangkok,Kanchanaburi to Bangkok,0,,,0
+KAC2BNK9,KAC2BNK,daily,Bangkok,Kanchanaburi to Bangkok,0,,,0
+KAC2BNK10,KAC2BNK,daily,Bangkok,Kanchanaburi to Bangkok,0,,,0
+KAC2BNK11,KAC2BNK,daily,Bangkok,Kanchanaburi to Bangkok,0,,,0
+KAC2BNK12,KAC2BNK,daily,Bangkok,Kanchanaburi to Bangkok,0,,,0
+KAC2bus-BPL0,KAC2bus-BPL,daily,Bo Ploy,Kanchanaburi to Bo Ploy,0,,,0
+KAC2bus-DMT0,KAC2bus-DMT,daily,Dan Makham Tia,Kanchanaburi to Dan Makham Tia,0,,,0
+KAC2bus-ERW0,KAC2bus-ERW,daily,Erawan Waterfalls,Kanchanaburi to Erawan Waterfalls,0,,,0
+KAC2NAN0,KAC2NAN,daily,Nakhon Pathom,Kanchanaburi to Nakhon Pathom,0,,,0
+KAC2RAC0,KAC2RAC,daily,Ratchaburi,Kanchanaburi to Ratchaburi,0,,,0
+KAC2NAM0,KAC2NAM,daily,Nam Tok,Kanchanaburi to Nam Tok,0,,,0
+KAC2NAM1,KAC2NAM,daily,Nam Tok,Kanchanaburi to Nam Tok,0,,,0
+KAC2bus-SGB0,KAC2bus-SGB,daily,Sangkhla Buri,Kanchanaburi to Sangkhla Buri,0,,,0
+KAC2bus-SGB1,KAC2bus-SGB,daily,Sangkhla Buri,Kanchanaburi to Sangkhla Buri,0,,,0
+KAC2bus-SGB2,KAC2bus-SGB,daily,Sangkhla Buri,Kanchanaburi to Sangkhla Buri,0,,,0
+KAC2bus-SGB3,KAC2bus-SGB,daily,Sangkhla Buri,Kanchanaburi to Sangkhla Buri,0,,,0
+KAC2SUP0,KAC2SUP,daily,Suphan Buri,Kanchanaburi to Suphan Buri,0,,,0
+KAC2bus-TLC0,KAC2bus-TLC,daily,Tham Lot Cave,Kanchanaburi to Tham Lot Cave,0,,,0
+KAC2bus-TLC1,KAC2bus-TLC,daily,Tham Lot Cave,Kanchanaburi to Tham Lot Cave,0,,,0
+KAC2bus-TLC2,KAC2bus-TLC,daily,Tham Lot Cave,Kanchanaburi to Tham Lot Cave,0,,,0
+KAC2bus-TLC3,KAC2bus-TLC,daily,Tham Lot Cave,Kanchanaburi to Tham Lot Cave,0,,,0
+KAC2bus-TPP0,KAC2bus-TPP,daily,Thong Pha Phum,Kanchanaburi to Thong Pha Phum,0,,,0
+KAC2bus-TPA0,KAC2bus-TPA,daily,Three Pagodas,Kanchanaburi to Three Pagodas,0,,,0
+KAC2bus-TPA1,KAC2bus-TPA,daily,Three Pagodas,Kanchanaburi to Three Pagodas,0,,,0
+KAC2bus-TPA2,KAC2bus-TPA,daily,Three Pagodas,Kanchanaburi to Three Pagodas,0,,,0
+KAC2bus-TPA3,KAC2bus-TPA,daily,Three Pagodas,Kanchanaburi to Three Pagodas,0,,,0
+KAC2bus-TPA4,KAC2bus-TPA,daily,Three Pagodas,Kanchanaburi to Three Pagodas,0,,,0
+bus-KAN2SIS0,bus-KAN2SIS,daily,Si Saket,Kantharalak to Si Saket,0,,,0
+bus-KAN2SIS1,bus-KAN2SIS,daily,Si Saket,Kantharalak to Si Saket,0,,,0
+KHE2BNK0,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK1,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK2,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK3,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK4,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK5,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK6,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK7,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK8,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK9,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK10,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK11,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK12,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK13,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK14,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK15,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK16,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK17,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK18,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK19,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK20,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK21,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK22,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK23,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK24,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK25,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK26,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2BNK28,KHE2BNK,daily,Bangkok,Khon Kaen to Bangkok,0,,,0
+KHE2CGM0,KHE2CGM,daily,Chiang Mai,Khon Kaen to Chiang Mai,0,,,0
+KHE2bus-CHR0,KHE2bus-CHR,daily,Chiang Rai,Khon Kaen to Chiang Rai,0,,,0
+KHE2bus-CHR1,KHE2bus-CHR,daily,Chiang Rai,Khon Kaen to Chiang Rai,0,,,0
+KHE2bus-CHR2,KHE2bus-CHR,daily,Chiang Rai,Khon Kaen to Chiang Rai,0,,,0
+KHE2bus-CHR3,KHE2bus-CHR,daily,Chiang Rai,Khon Kaen to Chiang Rai,0,,,0
+KHE2bus-CHR4,KHE2bus-CHR,daily,Chiang Rai,Khon Kaen to Chiang Rai,0,,,0
+KHE2NAK0,KHE2NAK,daily,Nakhon Ratchasima,Khon Kaen to Nakhon Ratchasima,0,,,0
+KHE2SUR0,KHE2SUR,daily,Surin,Khon Kaen to Surin,0,,,0
+bus-KOS2PAT1,bus-KOS2PAT,daily,Pattaya,Ko Samui to Pattaya,0,,,0
+bus-KOC2BNK0,bus-KOC2BNK,daily,Bangkok,Ko Chang to Bangkok,0,,,0
+bus-KOP2BNK0,bus-KOP2BNK,daily,Bangkok,Ko Pha Ngan to Bangkok,0,,,0
+bus-KOP2BNK1,bus-KOP2BNK,daily,Bangkok,Ko Pha Ngan to Bangkok,0,,,0
+bus-KSM2CGM0,bus-KSM2CGM,daily,Chiang Mai,Ko Samet to Chiang Mai,0,,,0
+bus-KOS2BNK0,bus-KOS2BNK,daily,Bangkok,Ko Samui to Bangkok,0,,,0
+bus-KOS2BNK5,bus-KOS2BNK,daily,Bangkok,Ko Samui to Bangkok,0,,,0
+bus-KOS2BNK6,bus-KOS2BNK,daily,Bangkok,Ko Samui to Bangkok,0,,,0
+bus-KOS2BNK7,bus-KOS2BNK,daily,Bangkok,Ko Samui to Bangkok,0,,,0
+bus-KOS2BNK8,bus-KOS2BNK,daily,Bangkok,Ko Samui to Bangkok,0,,,0
+bus-KOS2BNK9,bus-KOS2BNK,daily,Bangkok,Ko Samui to Bangkok,0,,,0
+bus-KOS2BNK10,bus-KOS2BNK,daily,Bangkok,Ko Samui to Bangkok,0,,,0
+bus-KOS2bus-KRA0,bus-KOS2bus-KRA,daily,Krabi,Ko Samui to Krabi,0,,,0
+bus-KOS2bus-KRA1,bus-KOS2bus-KRA,daily,Krabi,Ko Samui to Krabi,0,,,0
+bus-KOS2bus-KRA2,bus-KOS2bus-KRA,daily,Krabi,Ko Samui to Krabi,0,,,0
+bus-KOS2bus-KRA3,bus-KOS2bus-KRA,daily,Krabi,Ko Samui to Krabi,0,,,0
+bus-KOS2bus-KRA4,bus-KOS2bus-KRA,daily,Krabi,Ko Samui to Krabi,0,,,0
+bus-KOS2bus-KRA5,bus-KOS2bus-KRA,daily,Krabi,Ko Samui to Krabi,0,,,0
+bus-KOS2bus-PKT0,bus-KOS2bus-PKT,daily,Phuket,Ko Samui to Phuket,0,,,0
+bus-KRA2BNK0,bus-KRA2BNK,daily,Bangkok,Krabi to Bangkok,0,,,0
+bus-KRA2BNK1,bus-KRA2BNK,daily,Bangkok,Krabi to Bangkok,0,,,0
+bus-KRA2BNK2,bus-KRA2BNK,daily,Bangkok,Krabi to Bangkok,0,,,0
+bus-KRA2BNK3,bus-KRA2BNK,daily,Bangkok,Krabi to Bangkok,0,,,0
+bus-KRA2HYJ0,bus-KRA2HYJ,daily,Hat Yai Junction,Krabi to Hat Yai Junction,0,,,0
+bus-KRA2bus-KOS0,bus-KRA2bus-KOS,daily,Ko Samui,Krabi to Ko Samui,0,,,0
+bus-KRA2bus-PKT0,bus-KRA2bus-PKT,daily,Phuket,Krabi to Phuket,0,,,0
+bus-KRA2bus-PKT1,bus-KRA2bus-PKT,daily,Phuket,Krabi to Phuket,0,,,0
+bus-KRA2bus-PKT2,bus-KRA2bus-PKT,daily,Phuket,Krabi to Phuket,0,,,0
+bus-KRA2bus-PKT3,bus-KRA2bus-PKT,daily,Phuket,Krabi to Phuket,0,,,0
+bus-KRA2SRN0,bus-KRA2SRN,daily,Surat Thani,Krabi to Surat Thani,0,,,0
+bus-KRA2SRN1,bus-KRA2SRN,daily,Surat Thani,Krabi to Surat Thani,0,,,0
+bus-KRA2SRN2,bus-KRA2SRN,daily,Surat Thani,Krabi to Surat Thani,0,,,0
+bus-KRA2SRN3,bus-KRA2SRN,daily,Surat Thani,Krabi to Surat Thani,0,,,0
+bus-KRA2SRN4,bus-KRA2SRN,daily,Surat Thani,Krabi to Surat Thani,0,,,0
+bus-KRA2SRN5,bus-KRA2SRN,daily,Surat Thani,Krabi to Surat Thani,0,,,0
+bus-KRA2SRN6,bus-KRA2SRN,daily,Surat Thani,Krabi to Surat Thani,0,,,0
+bus-KRA2SRN7,bus-KRA2SRN,daily,Surat Thani,Krabi to Surat Thani,0,,,0
+bus-KRA2TRA0,bus-KRA2TRA,daily,Trang,Krabi to Trang,0,,,0
+NAL2BNK0,NAL2BNK,daily,Bangkok,Nakhon Lampang to Bangkok,0,,,0
+NAL2BNK1,NAL2BNK,daily,Bangkok,Nakhon Lampang to Bangkok,0,,,0
+NAL2BNK2,NAL2BNK,daily,Bangkok,Nakhon Lampang to Bangkok,0,,,0
+LAM2BNK0,LAM2BNK,daily,Bangkok,Lam Phun to Bangkok,0,,,0
+LAM2BNK1,LAM2BNK,daily,Bangkok,Lam Phun to Bangkok,0,,,0
+LAM2BNK2,LAM2BNK,daily,Bangkok,Lam Phun to Bangkok,0,,,0
+LAM2BNK3,LAM2BNK,daily,Bangkok,Lam Phun to Bangkok,0,,,0
+LAM2BNK4,LAM2BNK,daily,Bangkok,Lam Phun to Bangkok,0,,,0
+bus-LOE2BNK0,bus-LOE2BNK,daily,Bangkok,Loei to Bangkok,0,,,0
+bus-LOE2BNK1,bus-LOE2BNK,daily,Bangkok,Loei to Bangkok,0,,,0
+bus-LOE2BNK2,bus-LOE2BNK,daily,Bangkok,Loei to Bangkok,0,,,0
+bus-LOE2BNK3,bus-LOE2BNK,daily,Bangkok,Loei to Bangkok,0,,,0
+bus-LOE2BNK4,bus-LOE2BNK,daily,Bangkok,Loei to Bangkok,0,,,0
+bus-LOE2BNK5,bus-LOE2BNK,daily,Bangkok,Loei to Bangkok,0,,,0
+bus-LOE2BNK6,bus-LOE2BNK,daily,Bangkok,Loei to Bangkok,0,,,0
+LOR2AYU0,LOR2AYU,daily,Ayutthaya,Lop Buri to Ayutthaya,0,,,0
+LOR2BNK0,LOR2BNK,daily,Bangkok,Lop Buri to Bangkok,0,,,0
+LOR2bus-SIN0,LOR2bus-SIN,daily,Singburi,Lop Buri to Singburi,0,,,0
+bus-MHS2BNK0,bus-MHS2BNK,daily,Bangkok,Mae Hong Son to Bangkok,0,,,0
+bus-MHS2BNK1,bus-MHS2BNK,daily,Bangkok,Mae Hong Son to Bangkok,0,,,0
+bus-MHS2BNK2,bus-MHS2BNK,daily,Bangkok,Mae Hong Son to Bangkok,0,,,0
+bus-MHS2CGM1,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM2,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM3,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM4,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM5,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM6,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM7,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM8,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM9,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM10,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM11,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM12,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM13,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM14,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM15,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM16,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM17,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM19,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2CGM20,bus-MHS2CGM,daily,Chiang Mai,Mae Hong Son to Chiang Mai,0,,,0
+bus-MHS2bus-PAI0,bus-MHS2bus-PAI,daily,Pai,Mae Hong Son to Pai,0,,,0
+bus-MAS2BNK0,bus-MAS2BNK,daily,Bangkok,Mae Sai to Bangkok,0,,,0
+bus-MAS2BNK1,bus-MAS2BNK,daily,Bangkok,Mae Sai to Bangkok,0,,,0
+bus-MAS2BNK3,bus-MAS2BNK,daily,Bangkok,Mae Sai to Bangkok,0,,,0
+bus-MAS2bus-CHR0,bus-MAS2bus-CHR,daily,Chiang Rai,Mae Sai to Chiang Rai,0,,,0
+busstop-MAM2BNK0,busstop-MAM2BNK,daily,Bangkok,Maha Sarakham to Bangkok,0,,,0
+bus-MUK2BNK0,bus-MUK2BNK,daily,Bangkok,Mukdahan to Bangkok,0,,,0
+bus-MUK2BNK1,bus-MUK2BNK,daily,Bangkok,Mukdahan to Bangkok,0,,,0
+bus-MUK2BNK2,bus-MUK2BNK,daily,Bangkok,Mukdahan to Bangkok,0,,,0
+bus-MUK2BNK3,bus-MUK2BNK,daily,Bangkok,Mukdahan to Bangkok,0,,,0
+bus-MUK2BNK4,bus-MUK2BNK,daily,Bangkok,Mukdahan to Bangkok,0,,,0
+bus-MUK2CHB0,bus-MUK2CHB,daily,Chon Buri,Mukdahan to Chon Buri,0,,,0
+bus-MUK2PAT0,bus-MUK2PAT,daily,Pattaya,Mukdahan to Pattaya,0,,,0
+bus-MUK2bus-RAY0,bus-MUK2bus-RAY,daily,Rayong,Mukdahan to Rayong,0,,,0
+bus-MUK2bus-RAY1,bus-MUK2bus-RAY,daily,Rayong,Mukdahan to Rayong,0,,,0
+bus-MUK2bus-RAY2,bus-MUK2bus-RAY,daily,Rayong,Mukdahan to Rayong,0,,,0
+bus-MUK2bus-RAY3,bus-MUK2bus-RAY,daily,Rayong,Mukdahan to Rayong,0,,,0
+bus-NKN2BNK0,bus-NKN2BNK,daily,Bangkok,Nakhon Nayok to Bangkok,0,,,0
+bus-NKN2BNK2,bus-NKN2BNK,daily,Bangkok,Nakhon Nayok to Bangkok,0,,,0
+bus-NKN2BNK3,bus-NKN2BNK,daily,Bangkok,Nakhon Nayok to Bangkok,0,,,0
+bus-NKN2BNK4,bus-NKN2BNK,daily,Bangkok,Nakhon Nayok to Bangkok,0,,,0
+bus-NKN2BNK5,bus-NKN2BNK,daily,Bangkok,Nakhon Nayok to Bangkok,0,,,0
+NAN2BNK0,NAN2BNK,daily,Bangkok,Nakhon Pathom to Bangkok,0,,,0
+NAN2KAC0,NAN2KAC,daily,Kanchanaburi,Nakhon Pathom to Kanchanaburi,0,,,0
+bus-NKP2BNK0,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK1,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK2,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK3,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK5,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK6,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK7,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK10,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK11,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK12,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK13,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK14,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK15,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK16,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK17,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK18,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK19,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK20,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK21,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK22,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2BNK23,bus-NKP2BNK,daily,Bangkok,Nakhon Phanom to Bangkok,0,,,0
+bus-NKP2bus-CHR0,bus-NKP2bus-CHR,daily,Chiang Rai,Nakhon Phanom to Chiang Rai,0,,,0
+bus-NKP2bus-CHR1,bus-NKP2bus-CHR,daily,Chiang Rai,Nakhon Phanom to Chiang Rai,0,,,0
+bus-NKP2bus-CHR2,bus-NKP2bus-CHR,daily,Chiang Rai,Nakhon Phanom to Chiang Rai,0,,,0
+bus-NKP2bus-CHR3,bus-NKP2bus-CHR,daily,Chiang Rai,Nakhon Phanom to Chiang Rai,0,,,0
+NAK2BNK0,NAK2BNK,daily,Bangkok,Nakhon Ratchasima to Bangkok,0,,,0
+NAK2BUR0,NAK2BUR,daily,Buri Ram,Nakhon Ratchasima to Buri Ram,0,,,0
+NAK2BUR1,NAK2BUR,daily,Buri Ram,Nakhon Ratchasima to Buri Ram,0,,,0
+NAK2BUR2,NAK2BUR,daily,Buri Ram,Nakhon Ratchasima to Buri Ram,0,,,0
+NAK2CAA0,NAK2CAA,daily,Cha Am,Nakhon Ratchasima to Cha Am,0,,,0
+NAK2CAA1,NAK2CAA,daily,Cha Am,Nakhon Ratchasima to Cha Am,0,,,0
+NAK2CAA2,NAK2CAA,daily,Cha Am,Nakhon Ratchasima to Cha Am,0,,,0
+NAK2CAA3,NAK2CAA,daily,Cha Am,Nakhon Ratchasima to Cha Am,0,,,0
+NAK2CAA4,NAK2CAA,daily,Cha Am,Nakhon Ratchasima to Cha Am,0,,,0
+NAK2CAA5,NAK2CAA,daily,Cha Am,Nakhon Ratchasima to Cha Am,0,,,0
+NAK2bus-CHA0,NAK2bus-CHA,daily,Chaiyaphum,Nakhon Ratchasima to Chaiyaphum,0,,,0
+NAK2bus-CHN0,NAK2bus-CHN,daily,Chanthaburi,Nakhon Ratchasima to Chanthaburi,0,,,0
+NAK2bus-CHN1,NAK2bus-CHN,daily,Chanthaburi,Nakhon Ratchasima to Chanthaburi,0,,,0
+NAK2bus-CHN2,NAK2bus-CHN,daily,Chanthaburi,Nakhon Ratchasima to Chanthaburi,0,,,0
+NAK2bus-CHN3,NAK2bus-CHN,daily,Chanthaburi,Nakhon Ratchasima to Chanthaburi,0,,,0
+NAK2bus-CHN4,NAK2bus-CHN,daily,Chanthaburi,Nakhon Ratchasima to Chanthaburi,0,,,0
+NAK2bus-CHN5,NAK2bus-CHN,daily,Chanthaburi,Nakhon Ratchasima to Chanthaburi,0,,,0
+NAK2bus-CHN6,NAK2bus-CHN,daily,Chanthaburi,Nakhon Ratchasima to Chanthaburi,0,,,0
+NAK2bus-CHN7,NAK2bus-CHN,daily,Chanthaburi,Nakhon Ratchasima to Chanthaburi,0,,,0
+NAK2CGM0,NAK2CGM,daily,Chiang Mai,Nakhon Ratchasima to Chiang Mai,0,,,0
+NAK2CGM1,NAK2CGM,daily,Chiang Mai,Nakhon Ratchasima to Chiang Mai,0,,,0
+NAK2CGM2,NAK2CGM,daily,Chiang Mai,Nakhon Ratchasima to Chiang Mai,0,,,0
+NAK2CGM3,NAK2CGM,daily,Chiang Mai,Nakhon Ratchasima to Chiang Mai,0,,,0
+NAK2CGM4,NAK2CGM,daily,Chiang Mai,Nakhon Ratchasima to Chiang Mai,0,,,0
+NAK2CGM5,NAK2CGM,daily,Chiang Mai,Nakhon Ratchasima to Chiang Mai,0,,,0
+NAK2CGM6,NAK2CGM,daily,Chiang Mai,Nakhon Ratchasima to Chiang Mai,0,,,0
+NAK2bus-CHR0,NAK2bus-CHR,daily,Chiang Rai,Nakhon Ratchasima to Chiang Rai,0,,,0
+NAK2bus-CHR1,NAK2bus-CHR,daily,Chiang Rai,Nakhon Ratchasima to Chiang Rai,0,,,0
+NAK2bus-CHR2,NAK2bus-CHR,daily,Chiang Rai,Nakhon Ratchasima to Chiang Rai,0,,,0
+NAK2bus-CHR3,NAK2bus-CHR,daily,Chiang Rai,Nakhon Ratchasima to Chiang Rai,0,,,0
+NAK2HHI0,NAK2HHI,daily,Hua Hin,Nakhon Ratchasima to Hua Hin,0,,,0
+NAK2HHI1,NAK2HHI,daily,Hua Hin,Nakhon Ratchasima to Hua Hin,0,,,0
+NAK2HHI2,NAK2HHI,daily,Hua Hin,Nakhon Ratchasima to Hua Hin,0,,,0
+NAK2HHI3,NAK2HHI,daily,Hua Hin,Nakhon Ratchasima to Hua Hin,0,,,0
+NAK2HHI4,NAK2HHI,daily,Hua Hin,Nakhon Ratchasima to Hua Hin,0,,,0
+NAK2HHI5,NAK2HHI,daily,Hua Hin,Nakhon Ratchasima to Hua Hin,0,,,0
+NAK2KHE0,NAK2KHE,daily,Khon Kaen,Nakhon Ratchasima to Khon Kaen,0,,,0
+NAK2bus-NNR0,NAK2bus-NNR,daily,Nang Rong,Nakhon Ratchasima to Nang Rong,0,,,0
+NAK2NOH0,NAK2NOH,daily,Nong Khai,Nakhon Ratchasima to Nong Khai,0,,,0
+NAK2bus-PTC0,NAK2bus-PTC,daily,Pak Thong Chai,Nakhon Ratchasima to Pak Thong Chai,0,,,0
+NAK2PAT0,NAK2PAT,daily,Pattaya,Nakhon Ratchasima to Pattaya,0,,,0
+NAK2PAT1,NAK2PAT,daily,Pattaya,Nakhon Ratchasima to Pattaya,0,,,0
+NAK2PAT2,NAK2PAT,daily,Pattaya,Nakhon Ratchasima to Pattaya,0,,,0
+NAK2PAT3,NAK2PAT,daily,Pattaya,Nakhon Ratchasima to Pattaya,0,,,0
+NAK2bus-PHM0,NAK2bus-PHM,daily,Phimai,Nakhon Ratchasima to Phimai,0,,,0
+NAK2PHL0,NAK2PHL,daily,Phitsanulok,Nakhon Ratchasima to Phitsanulok,0,,,0
+NAK2PHL1,NAK2PHL,daily,Phitsanulok,Nakhon Ratchasima to Phitsanulok,0,,,0
+NAK2PHL2,NAK2PHL,daily,Phitsanulok,Nakhon Ratchasima to Phitsanulok,0,,,0
+NAK2PHL3,NAK2PHL,daily,Phitsanulok,Nakhon Ratchasima to Phitsanulok,0,,,0
+NAK2PHL4,NAK2PHL,daily,Phitsanulok,Nakhon Ratchasima to Phitsanulok,0,,,0
+NAK2PHL5,NAK2PHL,daily,Phitsanulok,Nakhon Ratchasima to Phitsanulok,0,,,0
+NAK2PHL6,NAK2PHL,daily,Phitsanulok,Nakhon Ratchasima to Phitsanulok,0,,,0
+NAK2bus-RAY0,NAK2bus-RAY,daily,Rayong,Nakhon Ratchasima to Rayong,0,,,0
+NAK2bus-RAY1,NAK2bus-RAY,daily,Rayong,Nakhon Ratchasima to Rayong,0,,,0
+NAK2bus-RAY2,NAK2bus-RAY,daily,Rayong,Nakhon Ratchasima to Rayong,0,,,0
+NAK2bus-RAY3,NAK2bus-RAY,daily,Rayong,Nakhon Ratchasima to Rayong,0,,,0
+NAK2bus-RAY4,NAK2bus-RAY,daily,Rayong,Nakhon Ratchasima to Rayong,0,,,0
+NAK2bus-RAY5,NAK2bus-RAY,daily,Rayong,Nakhon Ratchasima to Rayong,0,,,0
+NAK2bus-RAY6,NAK2bus-RAY,daily,Rayong,Nakhon Ratchasima to Rayong,0,,,0
+NAK2bus-RAY7,NAK2bus-RAY,daily,Rayong,Nakhon Ratchasima to Rayong,0,,,0
+NAK2bus-RAY8,NAK2bus-RAY,daily,Rayong,Nakhon Ratchasima to Rayong,0,,,0
+NAK2SUR0,NAK2SUR,daily,Surin,Nakhon Ratchasima to Surin,0,,,0
+NAK2SUR1,NAK2SUR,daily,Surin,Nakhon Ratchasima to Surin,0,,,0
+NAK2SUR2,NAK2SUR,daily,Surin,Nakhon Ratchasima to Surin,0,,,0
+NAK2SUR3,NAK2SUR,daily,Surin,Nakhon Ratchasima to Surin,0,,,0
+NAK2SUR4,NAK2SUR,daily,Surin,Nakhon Ratchasima to Surin,0,,,0
+NAK2UBO0,NAK2UBO,daily,Ubon Ratchathani,Nakhon Ratchasima to Ubon Ratchathani,0,,,0
+NAK2UBO1,NAK2UBO,daily,Ubon Ratchathani,Nakhon Ratchasima to Ubon Ratchathani,0,,,0
+NAK2UBO2,NAK2UBO,daily,Ubon Ratchathani,Nakhon Ratchasima to Ubon Ratchathani,0,,,0
+NAK2UDO0,NAK2UDO,daily,Udon Thani,Nakhon Ratchasima to Udon Thani,0,,,0
+NAO2BNK0,NAO2BNK,daily,Bangkok,Nakhon Sawan to Bangkok,0,,,0
+NAH2BNK0,NAH2BNK,daily,Bangkok,Nakhon Si Thammarat to Bangkok,0,,,0
+NAH2BNK1,NAH2BNK,daily,Bangkok,Nakhon Si Thammarat to Bangkok,0,,,0
+NAH2BNK2,NAH2BNK,daily,Bangkok,Nakhon Si Thammarat to Bangkok,0,,,0
+NAH2BNK3,NAH2BNK,daily,Bangkok,Nakhon Si Thammarat to Bangkok,0,,,0
+NAH2BNK4,NAH2BNK,daily,Bangkok,Nakhon Si Thammarat to Bangkok,0,,,0
+NAH2BNK5,NAH2BNK,daily,Bangkok,Nakhon Si Thammarat to Bangkok,0,,,0
+NAH2BNK6,NAH2BNK,daily,Bangkok,Nakhon Si Thammarat to Bangkok,0,,,0
+NAH2BNK7,NAH2BNK,daily,Bangkok,Nakhon Si Thammarat to Bangkok,0,,,0
+bus-NAN2BNK0,bus-NAN2BNK,daily,Bangkok,Nan to Bangkok,0,,,0
+bus-NAN2BNK1,bus-NAN2BNK,daily,Bangkok,Nan to Bangkok,0,,,0
+bus-NAN2BNK2,bus-NAN2BNK,daily,Bangkok,Nan to Bangkok,0,,,0
+bus-NAN2BNK3,bus-NAN2BNK,daily,Bangkok,Nan to Bangkok,0,,,0
+bus-NAN2BNK4,bus-NAN2BNK,daily,Bangkok,Nan to Bangkok,0,,,0
+bus-NAN2BNK5,bus-NAN2BNK,daily,Bangkok,Nan to Bangkok,0,,,0
+bus-NAN2BNK6,bus-NAN2BNK,daily,Bangkok,Nan to Bangkok,0,,,0
+bus-NAN2BNK7,bus-NAN2BNK,daily,Bangkok,Nan to Bangkok,0,,,0
+bus-NNR2BUR0,bus-NNR2BUR,daily,Buri Ram,Nang Rong to Buri Ram,0,,,0
+bus-NNR2NAK1,bus-NNR2NAK,daily,Nakhon Ratchasima,Nang Rong to Nakhon Ratchasima,0,,,0
+bus-NNR2SUR0,bus-NNR2SUR,daily,Surin,Nang Rong to Surin,0,,,0
+bus-NAR2BNK0,bus-NAR2BNK,daily,Bangkok,Narathiwat to Bangkok,0,,,0
+bus-NAR2BNK1,bus-NAR2BNK,daily,Bangkok,Narathiwat to Bangkok,0,,,0
+bus-NAR2BNK2,bus-NAR2BNK,daily,Bangkok,Narathiwat to Bangkok,0,,,0
+bus-NAR2BNK3,bus-NAR2BNK,daily,Bangkok,Narathiwat to Bangkok,0,,,0
+bus-NAR2BNK4,bus-NAR2BNK,daily,Bangkok,Narathiwat to Bangkok,0,,,0
+bus-NBL2BNK0,bus-NBL2BNK,daily,Bangkok,Nong Bua Lamphu to Bangkok,0,,,0
+bus-NBL2BNK1,bus-NBL2BNK,daily,Bangkok,Nong Bua Lamphu to Bangkok,0,,,0
+bus-NBL2BNK2,bus-NBL2BNK,daily,Bangkok,Nong Bua Lamphu to Bangkok,0,,,0
+bus-NBL2BNK3,bus-NBL2BNK,daily,Bangkok,Nong Bua Lamphu to Bangkok,0,,,0
+bus-NBL2BNK4,bus-NBL2BNK,daily,Bangkok,Nong Bua Lamphu to Bangkok,0,,,0
+NOH2BNK0,NOH2BNK,daily,Bangkok,Nong Khai to Bangkok,0,,,0
+NOH2BNK1,NOH2BNK,daily,Bangkok,Nong Khai to Bangkok,0,,,0
+NOH2BNK2,NOH2BNK,daily,Bangkok,Nong Khai to Bangkok,0,,,0
+NOH2BNK4,NOH2BNK,daily,Bangkok,Nong Khai to Bangkok,0,,,0
+NOH2NAK0,NOH2NAK,daily,Nakhon Ratchasima,Nong Khai to Nakhon Ratchasima,0,,,0
+bus-PAI2CGM0,bus-PAI2CGM,daily,Chiang Mai,Pai to Chiang Mai,0,,,0
+bus-PAI2CGM1,bus-PAI2CGM,daily,Chiang Mai,Pai to Chiang Mai,0,,,0
+bus-PAI2CGM2,bus-PAI2CGM,daily,Chiang Mai,Pai to Chiang Mai,0,,,0
+bus-PAI2CGM3,bus-PAI2CGM,daily,Chiang Mai,Pai to Chiang Mai,0,,,0
+bus-PAI2CGM4,bus-PAI2CGM,daily,Chiang Mai,Pai to Chiang Mai,0,,,0
+bus-PTC2NAK0,bus-PTC2NAK,daily,Nakhon Ratchasima,Pak Thong Chai to Nakhon Ratchasima,0,,,0
+bus-PAT2BNK0,bus-PAT2BNK,daily,Bangkok,Pattani to Bangkok,0,,,0
+PAT2ARY0,PAT2ARY,daily,Aranyaprathet,Pattaya to Aranyaprathet,0,,,0
+PAT2ARY1,PAT2ARY,daily,Aranyaprathet,Pattaya to Aranyaprathet,0,,,0
+PAT2ARY2,PAT2ARY,daily,Aranyaprathet,Pattaya to Aranyaprathet,0,,,0
+PAT2BNK0,PAT2BNK,daily,Bangkok,Pattaya to Bangkok,0,,,0
+PAT2BNK1,PAT2BNK,daily,Bangkok,Pattaya to Bangkok,0,,,0
+PAT2BUR0,PAT2BUR,daily,Buri Ram,Pattaya to Buri Ram,0,,,0
+PAT2bus-KOS0,PAT2bus-KOS,daily,Ko Samui,Pattaya to Ko Samui,0,,,0
+PAT2bus-KOS1,PAT2bus-KOS,daily,Ko Samui,Pattaya to Ko Samui,0,,,0
+PAT2bus-MUK0,PAT2bus-MUK,daily,Mukdahan,Pattaya to Mukdahan,0,,,0
+PAT2SUR0,PAT2SUR,daily,Surin,Pattaya to Surin,0,,,0
+PAT2SUR1,PAT2SUR,daily,Surin,Pattaya to Surin,0,,,0
+PAT2SUR2,PAT2SUR,daily,Surin,Pattaya to Surin,0,,,0
+PAT2bus-TRA0,PAT2bus-TRA,daily,Trat,Pattaya to Trat,0,,,0
+PAT2bus-TRA1,PAT2bus-TRA,daily,Trat,Pattaya to Trat,0,,,0
+PAT2bus-TRA2,PAT2bus-TRA,daily,Trat,Pattaya to Trat,0,,,0
+PAT2bus-TRA3,PAT2bus-TRA,daily,Trat,Pattaya to Trat,0,,,0
+PAT2bus-TRA4,PAT2bus-TRA,daily,Trat,Pattaya to Trat,0,,,0
+bus-PET2BNK0,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PET2BNK1,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PET2BNK2,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PET2BNK3,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PET2BNK4,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PET2BNK5,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PET2BNK6,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PET2BNK7,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PET2BNK8,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PHN2BNK1,bus-PHN2BNK,daily,Bangkok,Phang Nga to Bangkok,0,,,0
+bus-PHN2BNK2,bus-PHN2BNK,daily,Bangkok,Phang Nga to Bangkok,0,,,0
+bus-PHN2BNK3,bus-PHN2BNK,daily,Bangkok,Phang Nga to Bangkok,0,,,0
+bus-PHR2BNK0,bus-PHR2BNK,daily,Bangkok,Phrae to Bangkok,0,,,0
+bus-PHR2BNK1,bus-PHR2BNK,daily,Bangkok,Phrae to Bangkok,0,,,0
+bus-PHR2BNK2,bus-PHR2BNK,daily,Bangkok,Phrae to Bangkok,0,,,0
+bus-PHA2BNK0,bus-PHA2BNK,daily,Bangkok,Phayao to Bangkok,0,,,0
+bus-PHA2BNK1,bus-PHA2BNK,daily,Bangkok,Phayao to Bangkok,0,,,0
+bus-PHA2BNK2,bus-PHA2BNK,daily,Bangkok,Phayao to Bangkok,0,,,0
+bus-PHA2bus-CHR0,bus-PHA2bus-CHR,daily,Chiang Rai,Phayao to Chiang Rai,0,,,0
+bus-PET2BNK9,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PET2BNK10,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PET2BNK11,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+bus-PET2BNK12,bus-PET2BNK,daily,Bangkok,Phetchabun to Bangkok,0,,,0
+PHE2BNK0,PHE2BNK,daily,Bangkok,Phetchaburi to Bangkok,0,,,0
+PHE2BNK1,PHE2BNK,daily,Bangkok,Phetchaburi to Bangkok,0,,,0
+PHE2BNK2,PHE2BNK,daily,Bangkok,Phetchaburi to Bangkok,0,,,0
+PHE2BNK3,PHE2BNK,daily,Bangkok,Phetchaburi to Bangkok,0,,,0
+PHE2BNK4,PHE2BNK,daily,Bangkok,Phetchaburi to Bangkok,0,,,0
+PHE2CAA0,PHE2CAA,daily,Cha Am,Phetchaburi to Cha Am,0,,,0
+PHE2CPN0,PHE2CPN,daily,Chumphon,Phetchaburi to Chumphon,0,,,0
+PHE2CPN1,PHE2CPN,daily,Chumphon,Phetchaburi to Chumphon,0,,,0
+PHE2CPN2,PHE2CPN,daily,Chumphon,Phetchaburi to Chumphon,0,,,0
+PHE2CPN3,PHE2CPN,daily,Chumphon,Phetchaburi to Chumphon,0,,,0
+PHE2CPN4,PHE2CPN,daily,Chumphon,Phetchaburi to Chumphon,0,,,0
+PHE2HHI0,PHE2HHI,daily,Hua Hin,Phetchaburi to Hua Hin,0,,,0
+PHE2HHI1,PHE2HHI,daily,Hua Hin,Phetchaburi to Hua Hin,0,,,0
+bus-PHM2NAK0,bus-PHM2NAK,daily,Nakhon Ratchasima,Phimai to Nakhon Ratchasima,0,,,0
+PHL2BNK0,PHL2BNK,daily,Bangkok,Phitsanulok to Bangkok,0,,,0
+PHL2BNK1,PHL2BNK,daily,Bangkok,Phitsanulok to Bangkok,0,,,0
+PHL2BNK2,PHL2BNK,daily,Bangkok,Phitsanulok to Bangkok,0,,,0
+PHL2BNK3,PHL2BNK,daily,Bangkok,Phitsanulok to Bangkok,0,,,0
+PHL2KAM0,PHL2KAM,daily,Kamphaeng Phet,Phitsanulok to Kamphaeng Phet,0,,,0
+bus-PNP2BNK0,bus-PNP2BNK,daily,Bangkok,Phnom Penh to Bangkok,0,,,0
+bus-PHR2BNK3,bus-PHR2BNK,daily,Bangkok,Phrae to Bangkok,0,,,0
+bus-PKT2BNK0,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK1,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK2,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK3,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK4,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK5,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK6,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK7,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK8,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK9,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK10,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK11,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK12,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2BNK13,bus-PKT2BNK,daily,Bangkok,Phuket to Bangkok,0,,,0
+bus-PKT2HYJ0,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ1,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ2,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ3,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ4,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ5,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ6,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ7,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ8,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ9,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ10,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ11,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ12,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ13,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ14,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ15,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ16,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ17,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2HYJ18,bus-PKT2HYJ,daily,Hat Yai Junction,Phuket to Hat Yai Junction,0,,,0
+bus-PKT2bus-KOS0,bus-PKT2bus-KOS,daily,Ko Samui,Phuket to Ko Samui,0,,,0
+bus-PKT2bus-KOS2,bus-PKT2bus-KOS,daily,Ko Samui,Phuket to Ko Samui,0,,,0
+bus-PKT2bus-KOS3,bus-PKT2bus-KOS,daily,Ko Samui,Phuket to Ko Samui,0,,,0
+bus-PKT2bus-KRA0,bus-PKT2bus-KRA,daily,Krabi,Phuket to Krabi,0,,,0
+bus-PKT2bus-KRA1,bus-PKT2bus-KRA,daily,Krabi,Phuket to Krabi,0,,,0
+bus-PKT2bus-KRA2,bus-PKT2bus-KRA,daily,Krabi,Phuket to Krabi,0,,,0
+bus-PKT2bus-KRA3,bus-PKT2bus-KRA,daily,Krabi,Phuket to Krabi,0,,,0
+bus-PKT2bus-RNN0,bus-PKT2bus-RNN,daily,Ranong,Phuket to Ranong,0,,,0
+bus-PKT2bus-RNN1,bus-PKT2bus-RNN,daily,Ranong,Phuket to Ranong,0,,,0
+bus-PKT2bus-RNN2,bus-PKT2bus-RNN,daily,Ranong,Phuket to Ranong,0,,,0
+bus-PKT2bus-RNN3,bus-PKT2bus-RNN,daily,Ranong,Phuket to Ranong,0,,,0
+bus-PKT2bus-RNN4,bus-PKT2bus-RNN,daily,Ranong,Phuket to Ranong,0,,,0
+bus-PKT2bus-RNN5,bus-PKT2bus-RNN,daily,Ranong,Phuket to Ranong,0,,,0
+bus-PKT2bus-RNN6,bus-PKT2bus-RNN,daily,Ranong,Phuket to Ranong,0,,,0
+bus-PKT2bus-RNN7,bus-PKT2bus-RNN,daily,Ranong,Phuket to Ranong,0,,,0
+bus-PKT2bus-RNN8,bus-PKT2bus-RNN,daily,Ranong,Phuket to Ranong,0,,,0
+bus-PKT2bus-RNN9,bus-PKT2bus-RNN,daily,Ranong,Phuket to Ranong,0,,,0
+bus-PKT2SRN0,bus-PKT2SRN,daily,Surat Thani,Phuket to Surat Thani,0,,,0
+bus-PKT2SRN1,bus-PKT2SRN,daily,Surat Thani,Phuket to Surat Thani,0,,,0
+bus-PKT2SRN2,bus-PKT2SRN,daily,Surat Thani,Phuket to Surat Thani,0,,,0
+bus-PKT2SRN3,bus-PKT2SRN,daily,Surat Thani,Phuket to Surat Thani,0,,,0
+bus-PKT2TRA0,bus-PKT2TRA,daily,Trang,Phuket to Trang,0,,,0
+PHI2BNK0,PHI2BNK,daily,Bangkok,Phichit to Bangkok,0,,,0
+PHI2BNK1,PHI2BNK,daily,Bangkok,Phichit to Bangkok,0,,,0
+PHI2BNK2,PHI2BNK,daily,Bangkok,Phichit to Bangkok,0,,,0
+PKK2BNK0,PKK2BNK,daily,Bangkok,Prachuap Khiri Khan to Bangkok,0,,,0
+PKK2CPN0,PKK2CPN,daily,Chumphon,Prachuap Khiri Khan to Chumphon,0,,,0
+PKK2HHI0,PKK2HHI,daily,Hua Hin,Prachuap Khiri Khan to Hua Hin,0,,,0
+PKK2SRN0,PKK2SRN,daily,Surat Thani,Prachuap Khiri Khan to Surat Thani,0,,,0
+bus-PRO2CGM0,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-PRO2CGM1,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-PRO2CGM2,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-PRO2CGM3,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-PRO2CGM4,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-PRO2CGM5,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-PRO2CGM6,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-PRO2CGM7,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-PRO2CGM8,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-PRO2CGM9,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-PRO2CGM10,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-PRO2CGM11,bus-PRO2CGM,daily,Chiang Mai,Phrao to Chiang Mai,0,,,0
+bus-RNN2BNK0,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2BNK1,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2BNK2,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2BNK3,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2BNK4,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2BNK5,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2BNK6,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2BNK7,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2BNK8,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2BNK9,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2BNK10,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2BNK11,bus-RNN2BNK,daily,Bangkok,Ranong to Bangkok,0,,,0
+bus-RNN2bus-PKT0,bus-RNN2bus-PKT,daily,Phuket,Ranong to Phuket,0,,,0
+bus-RNN2bus-PKT1,bus-RNN2bus-PKT,daily,Phuket,Ranong to Phuket,0,,,0
+bus-RNN2bus-PKT2,bus-RNN2bus-PKT,daily,Phuket,Ranong to Phuket,0,,,0
+bus-RNN2PKK0,bus-RNN2PKK,daily,Prachuap Khiri Khan,Ranong to Prachuap Khiri Khan,0,,,0
+bus-RAY2ARY0,bus-RAY2ARY,daily,Aranyaprathet,Rayong to Aranyaprathet,0,,,0
+bus-RAY2ARY1,bus-RAY2ARY,daily,Aranyaprathet,Rayong to Aranyaprathet,0,,,0
+bus-RAY2ARY2,bus-RAY2ARY,daily,Aranyaprathet,Rayong to Aranyaprathet,0,,,0
+bus-RAY2BNK0,bus-RAY2BNK,daily,Bangkok,Rayong to Bangkok,0,,,0
+bus-RAY2BNK1,bus-RAY2BNK,daily,Bangkok,Rayong to Bangkok,0,,,0
+bus-RAY2BNK2,bus-RAY2BNK,daily,Bangkok,Rayong to Bangkok,0,,,0
+bus-RAY2BNK4,bus-RAY2BNK,daily,Bangkok,Rayong to Bangkok,0,,,0
+bus-RAY2BNK5,bus-RAY2BNK,daily,Bangkok,Rayong to Bangkok,0,,,0
+bus-RAY2BNK6,bus-RAY2BNK,daily,Bangkok,Rayong to Bangkok,0,,,0
+bus-RAY2BNK7,bus-RAY2BNK,daily,Bangkok,Rayong to Bangkok,0,,,0
+bus-RAY2BNK8,bus-RAY2BNK,daily,Bangkok,Rayong to Bangkok,0,,,0
+bus-RAY2BNK9,bus-RAY2BNK,daily,Bangkok,Rayong to Bangkok,0,,,0
+bus-RAY2BNK10,bus-RAY2BNK,daily,Bangkok,Rayong to Bangkok,0,,,0
+bus-RAY2BUR0,bus-RAY2BUR,daily,Buri Ram,Rayong to Buri Ram,0,,,0
+bus-RAY2bus-MUK0,bus-RAY2bus-MUK,daily,Mukdahan,Rayong to Mukdahan,0,,,0
+bus-RAY2SUR0,bus-RAY2SUR,daily,Surin,Rayong to Surin,0,,,0
+bus-RAY2SUR1,bus-RAY2SUR,daily,Surin,Rayong to Surin,0,,,0
+bus-RAY2SUR2,bus-RAY2SUR,daily,Surin,Rayong to Surin,0,,,0
+NAM2KAC0,NAM2KAC,daily,Kanchanaburi,Nam Tok to Kanchanaburi,0,,,0
+NAM2KAC1,NAM2KAC,daily,Kanchanaburi,Nam Tok to Kanchanaburi,0,,,0
+bus-SKN2BNK0,bus-SKN2BNK,daily,Bangkok,Sakon Nakhon to Bangkok,0,,,0
+bus-SKN2BNK1,bus-SKN2BNK,daily,Bangkok,Sakon Nakhon to Bangkok,0,,,0
+bus-SKN2BNK2,bus-SKN2BNK,daily,Bangkok,Sakon Nakhon to Bangkok,0,,,0
+bus-SKN2BNK3,bus-SKN2BNK,daily,Bangkok,Sakon Nakhon to Bangkok,0,,,0
+bus-SKN2BNK4,bus-SKN2BNK,daily,Bangkok,Sakon Nakhon to Bangkok,0,,,0
+bus-SKN2BNK5,bus-SKN2BNK,daily,Bangkok,Sakon Nakhon to Bangkok,0,,,0
+bus-SKN2BNK6,bus-SKN2BNK,daily,Bangkok,Sakon Nakhon to Bangkok,0,,,0
+bus-SKN2BNK7,bus-SKN2BNK,daily,Bangkok,Sakon Nakhon to Bangkok,0,,,0
+bus-SKN2BNK8,bus-SKN2BNK,daily,Bangkok,Sakon Nakhon to Bangkok,0,,,0
+bus-SKN2BNK9,bus-SKN2BNK,daily,Bangkok,Sakon Nakhon to Bangkok,0,,,0
+bus-SKN2BNK10,bus-SKN2BNK,daily,Bangkok,Sakon Nakhon to Bangkok,0,,,0
+bus-SMP2BNK0,bus-SMP2BNK,daily,Bangkok,Samut Prakan to Bangkok,0,,,0
+MAE2BNK0,MAE2BNK,daily,Bangkok,Maeklong to Bangkok,0,,,0
+bus-SGB2BNK0,bus-SGB2BNK,daily,Bangkok,Sangkhla Buri to Bangkok,0,,,0
+bus-SGB2BNK1,bus-SGB2BNK,daily,Bangkok,Sangkhla Buri to Bangkok,0,,,0
+bus-SGB2KAC0,bus-SGB2KAC,daily,Kanchanaburi,Sangkhla Buri to Kanchanaburi,0,,,0
+bus-SGB2KAC1,bus-SGB2KAC,daily,Kanchanaburi,Sangkhla Buri to Kanchanaburi,0,,,0
+bus-SGB2KAC2,bus-SGB2KAC,daily,Kanchanaburi,Sangkhla Buri to Kanchanaburi,0,,,0
+bus-SGB2KAC3,bus-SGB2KAC,daily,Kanchanaburi,Sangkhla Buri to Kanchanaburi,0,,,0
+bus-SGB2KAC4,bus-SGB2KAC,daily,Kanchanaburi,Sangkhla Buri to Kanchanaburi,0,,,0
+bus-SGB2KAC5,bus-SGB2KAC,daily,Kanchanaburi,Sangkhla Buri to Kanchanaburi,0,,,0
+bus-SGB2KAC6,bus-SGB2KAC,daily,Kanchanaburi,Sangkhla Buri to Kanchanaburi,0,,,0
+bus-SGB2KAC7,bus-SGB2KAC,daily,Kanchanaburi,Sangkhla Buri to Kanchanaburi,0,,,0
+bus-SGB2KAC8,bus-SGB2KAC,daily,Kanchanaburi,Sangkhla Buri to Kanchanaburi,0,,,0
+SAR2BNK0,SAR2BNK,daily,Bangkok,Saraburi to Bangkok,0,,,0
+bus-SAT2BNK0,bus-SAT2BNK,daily,Bangkok,Satun to Bangkok,0,,,0
+bus-SAT2BNK1,bus-SAT2BNK,daily,Bangkok,Satun to Bangkok,0,,,0
+bus-SAT2BNK2,bus-SAT2BNK,daily,Bangkok,Satun to Bangkok,0,,,0
+bus-SAT2BNK3,bus-SAT2BNK,daily,Bangkok,Satun to Bangkok,0,,,0
+bus-SAT2BNK4,bus-SAT2BNK,daily,Bangkok,Satun to Bangkok,0,,,0
+bus-SRP2BNK0,bus-SRP2BNK,daily,Bangkok,Siem Reap to Bangkok,0,,,0
+SIS2BNK0,SIS2BNK,daily,Bangkok,Si Saket to Bangkok,0,,,0
+SIS2BNK2,SIS2BNK,daily,Bangkok,Si Saket to Bangkok,0,,,0
+SIS2BNK3,SIS2BNK,daily,Bangkok,Si Saket to Bangkok,0,,,0
+SIS2BNK4,SIS2BNK,daily,Bangkok,Si Saket to Bangkok,0,,,0
+SIS2BNK5,SIS2BNK,daily,Bangkok,Si Saket to Bangkok,0,,,0
+SIS2BNK6,SIS2BNK,daily,Bangkok,Si Saket to Bangkok,0,,,0
+SIS2BNK7,SIS2BNK,daily,Bangkok,Si Saket to Bangkok,0,,,0
+SIS2BNK8,SIS2BNK,daily,Bangkok,Si Saket to Bangkok,0,,,0
+SIS2bus-KAN0,SIS2bus-KAN,daily,Kantharalak,Si Saket to Kantharalak,0,,,0
+SIS2bus-KAN1,SIS2bus-KAN,daily,Kantharalak,Si Saket to Kantharalak,0,,,0
+SIS2bus-KNH0,SIS2bus-KNH,daily,Khun Han,Si Saket to Khun Han,0,,,0
+SIS2bus-PYU0,SIS2bus-PYU,daily,Phayu,Si Saket to Phayu,0,,,0
+SIS2bus-PKU0,SIS2bus-PKU,daily,Prang Ku,Si Saket to Prang Ku,0,,,0
+SIS2SUR0,SIS2SUR,daily,Surin,Si Saket to Surin,0,,,0
+SIS2UBO0,SIS2UBO,daily,Ubon Ratchathani,Si Saket to Ubon Ratchathani,0,,,0
+SIS2UBO1,SIS2UBO,daily,Ubon Ratchathani,Si Saket to Ubon Ratchathani,0,,,0
+SIS2UTH0,SIS2UTH,daily,Uthumphon Phisai,Si Saket to Uthumphon Phisai,0,,,0
+bus-SON2BNK0,bus-SON2BNK,daily,Bangkok,Songkhla to Bangkok,0,,,0
+bus-SON2BNK1,bus-SON2BNK,daily,Bangkok,Songkhla to Bangkok,0,,,0
+bus-SON2BNK2,bus-SON2BNK,daily,Bangkok,Songkhla to Bangkok,0,,,0
+bus-SON2BNK3,bus-SON2BNK,daily,Bangkok,Songkhla to Bangkok,0,,,0
+bus-SON2BNK4,bus-SON2BNK,daily,Bangkok,Songkhla to Bangkok,0,,,0
+THG2BNK0,THG2BNK,daily,Bangkok,Thung Song Junction to Bangkok,0,,,0
+bus-SUK2BNK0,bus-SUK2BNK,daily,Bangkok,Sukhothai to Bangkok,0,,,0
+bus-SUK2BNK1,bus-SUK2BNK,daily,Bangkok,Sukhothai to Bangkok,0,,,0
+bus-SUK2BNK2,bus-SUK2BNK,daily,Bangkok,Sukhothai to Bangkok,0,,,0
+bus-SUK2BNK3,bus-SUK2BNK,daily,Bangkok,Sukhothai to Bangkok,0,,,0
+bus-SUK2BNK4,bus-SUK2BNK,daily,Bangkok,Sukhothai to Bangkok,0,,,0
+bus-SUK2CGM0,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM1,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM2,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM3,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM4,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM5,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM6,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM7,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM8,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM10,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM11,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM13,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM14,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM15,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM16,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2CGM17,bus-SUK2CGM,daily,Chiang Mai,Sukhothai to Chiang Mai,0,,,0
+bus-SUK2KAM0,bus-SUK2KAM,daily,Kamphaeng Phet,Sukhothai to Kamphaeng Phet,0,,,0
+SRN2BNK0,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK1,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK2,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK3,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK4,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK5,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK6,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK7,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK8,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK10,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK11,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK12,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK13,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK14,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SRN2BNK15,SRN2BNK,daily,Bangkok,Surat Thani to Bangkok,0,,,0
+SUR2ARY0,SUR2ARY,daily,Aranyaprathet,Surin to Aranyaprathet,0,,,0
+SUR2ARY1,SUR2ARY,daily,Aranyaprathet,Surin to Aranyaprathet,0,,,0
+SUR2ARY2,SUR2ARY,daily,Aranyaprathet,Surin to Aranyaprathet,0,,,0
+SUR2BNK0,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK1,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK3,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK4,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK5,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK6,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK7,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK8,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK9,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK10,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK11,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK12,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK13,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK14,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK15,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK16,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK17,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK18,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK19,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK20,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK21,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK22,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK23,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BNK24,SUR2BNK,daily,Bangkok,Surin to Bangkok,0,,,0
+SUR2BUR0,SUR2BUR,daily,Buri Ram,Surin to Buri Ram,0,,,0
+SUR2CHB0,SUR2CHB,daily,Chon Buri,Surin to Chon Buri,0,,,0
+SUR2CHB1,SUR2CHB,daily,Chon Buri,Surin to Chon Buri,0,,,0
+SUR2CHB2,SUR2CHB,daily,Chon Buri,Surin to Chon Buri,0,,,0
+SUR2KHE0,SUR2KHE,daily,Khon Kaen,Surin to Khon Kaen,0,,,0
+SUR2NAK0,SUR2NAK,daily,Nakhon Ratchasima,Surin to Nakhon Ratchasima,0,,,0
+SUR2bus-NNR0,SUR2bus-NNR,daily,Nang Rong,Surin to Nang Rong,0,,,0
+SUR2PAT0,SUR2PAT,daily,Pattaya,Surin to Pattaya,0,,,0
+SUR2PAT1,SUR2PAT,daily,Pattaya,Surin to Pattaya,0,,,0
+SUR2PAT2,SUR2PAT,daily,Pattaya,Surin to Pattaya,0,,,0
+SUR2bus-RAY0,SUR2bus-RAY,daily,Rayong,Surin to Rayong,0,,,0
+SUR2bus-RAY1,SUR2bus-RAY,daily,Rayong,Surin to Rayong,0,,,0
+SUR2bus-RAY2,SUR2bus-RAY,daily,Rayong,Surin to Rayong,0,,,0
+SUR2bus-ROI0,SUR2bus-ROI,daily,Roi Et,Surin to Roi Et,0,,,0
+SUR2SIS0,SUR2SIS,daily,Si Saket,Surin to Si Saket,0,,,0
+SVB2HHI0,SVB2HHI,daily,Hua Hin,Suvarnabhumi Airport to Hua Hin,0,,,0
+SVB2HHI1,SVB2HHI,daily,Hua Hin,Suvarnabhumi Airport to Hua Hin,0,,,0
+SVB2HHI2,SVB2HHI,daily,Hua Hin,Suvarnabhumi Airport to Hua Hin,0,,,0
+SVB2HHI3,SVB2HHI,daily,Hua Hin,Suvarnabhumi Airport to Hua Hin,0,,,0
+bus-TAK2BNK0,bus-TAK2BNK,daily,Bangkok,Tak to Bangkok,0,,,0
+bus-TAK2BNK1,bus-TAK2BNK,daily,Bangkok,Tak to Bangkok,0,,,0
+bus-TAK2BNK2,bus-TAK2BNK,daily,Bangkok,Tak to Bangkok,0,,,0
+bus-TAK2BNK3,bus-TAK2BNK,daily,Bangkok,Tak to Bangkok,0,,,0
+bus-TAK2BNK4,bus-TAK2BNK,daily,Bangkok,Tak to Bangkok,0,,,0
+bus-TAK2BNK5,bus-TAK2BNK,daily,Bangkok,Tak to Bangkok,0,,,0
+bus-TAK2BNK6,bus-TAK2BNK,daily,Bangkok,Tak to Bangkok,0,,,0
+bus-TAK2BNK7,bus-TAK2BNK,daily,Bangkok,Tak to Bangkok,0,,,0
+bus-TAK2BNK8,bus-TAK2BNK,daily,Bangkok,Tak to Bangkok,0,,,0
+bus-TPP2KAC0,bus-TPP2KAC,daily,Kanchanaburi,Thong Pha Phum to Kanchanaburi,0,,,0
+bus-TPA2KAC0,bus-TPA2KAC,daily,Kanchanaburi,Three Pagodas to Kanchanaburi,0,,,0
+bus-TPA2KAC1,bus-TPA2KAC,daily,Kanchanaburi,Three Pagodas to Kanchanaburi,0,,,0
+bus-TPA2KAC2,bus-TPA2KAC,daily,Kanchanaburi,Three Pagodas to Kanchanaburi,0,,,0
+bus-TPA2KAC3,bus-TPA2KAC,daily,Kanchanaburi,Three Pagodas to Kanchanaburi,0,,,0
+TRA2BNK0,TRA2BNK,daily,Bangkok,Trang to Bangkok,0,,,0
+TRA2BNK1,TRA2BNK,daily,Bangkok,Trang to Bangkok,0,,,0
+TRA2BNK2,TRA2BNK,daily,Bangkok,Trang to Bangkok,0,,,0
+TRA2HYJ0,TRA2HYJ,daily,Hat Yai Junction,Trang to Hat Yai Junction,0,,,0
+TRA2bus-PKT0,TRA2bus-PKT,daily,Phuket,Trang to Phuket,0,,,0
+bus-TRA2BNK0,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK1,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK2,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK3,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK4,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK5,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK6,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK7,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK8,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK9,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK10,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK11,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK12,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK14,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK15,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK16,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK17,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK18,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2BNK19,bus-TRA2BNK,daily,Bangkok,Trat to Bangkok,0,,,0
+bus-TRA2PAT0,bus-TRA2PAT,daily,Pattaya,Trat to Pattaya,0,,,0
+bus-TRA2PAT1,bus-TRA2PAT,daily,Pattaya,Trat to Pattaya,0,,,0
+bus-TRA2PAT2,bus-TRA2PAT,daily,Pattaya,Trat to Pattaya,0,,,0
+UBO2BNK0,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK1,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK2,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK3,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK4,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK5,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK6,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK7,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK8,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK9,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK10,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK11,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK12,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK13,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK14,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK15,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK16,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK17,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK18,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK19,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2BNK20,UBO2BNK,daily,Bangkok,Ubon Ratchathani to Bangkok,0,,,0
+UBO2CGM0,UBO2CGM,daily,Chiang Mai,Ubon Ratchathani to Chiang Mai,0,,,0
+UBO2bus-RAY0,UBO2bus-RAY,daily,Rayong,Ubon Ratchathani to Rayong,0,,,0
+UBO2bus-RAY1,UBO2bus-RAY,daily,Rayong,Ubon Ratchathani to Rayong,0,,,0
+UBO2SIS0,UBO2SIS,daily,Si Saket,Ubon Ratchathani to Si Saket,0,,,0
+UBO2SIS1,UBO2SIS,daily,Si Saket,Ubon Ratchathani to Si Saket,0,,,0
+UDO2NAK0,UDO2NAK,daily,Nakhon Ratchasima,Udon Thani to Nakhon Ratchasima,0,,,0
+UTH2SIS0,UTH2SIS,daily,Si Saket,Uthumphon Phisai to Si Saket,0,,,0
+UTT2BNK0,UTT2BNK,daily,Bangkok,Uttaradit to Bangkok,0,,,0
+UTT2BNK1,UTT2BNK,daily,Bangkok,Uttaradit to Bangkok,0,,,0
+UTT2BNK2,UTT2BNK,daily,Bangkok,Uttaradit to Bangkok,0,,,0
+UTT2BNK3,UTT2BNK,daily,Bangkok,Uttaradit to Bangkok,0,,,0
+UTT2BNK4,UTT2BNK,daily,Bangkok,Uttaradit to Bangkok,0,,,0
+YAL2BNK0,YAL2BNK,daily,Bangkok,Yala to Bangkok,0,,,0
+YAL2BNK1,YAL2BNK,daily,Bangkok,Yala to Bangkok,0,,,0
+YAL2BNK2,YAL2BNK,daily,Bangkok,Yala to Bangkok,0,,,0
+YAL2BNK3,YAL2BNK,daily,Bangkok,Yala to Bangkok,0,,,0
+YAL2BNK4,YAL2BNK,daily,Bangkok,Yala to Bangkok,0,,,0
+bus-YAS2BNK0,bus-YAS2BNK,daily,Bangkok,Yasothon to Bangkok,0,,,0
+bus-YAS2BNK1,bus-YAS2BNK,daily,Bangkok,Yasothon to Bangkok,0,,,0
